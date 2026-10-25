@@ -1,5 +1,7 @@
 # Sales Report Automator
 
+**Live demo:** https://sales-report-automator-tb29qzqz9fwzsj2dzymqck.streamlit.app/
+
 **Messy sales exports in. A clean Excel report and a one-page PDF out, in seconds.**
 
 Small shops and distributors export sales from their billing software every month, and someone spends hours fixing dates, deleting total rows, merging product spellings and building a summary by hand. This tool does that work automatically, and it shows exactly what it changed and why, so the owner can trust the numbers.
