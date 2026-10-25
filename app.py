@@ -8,6 +8,7 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
+import altair as alt
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent
@@ -15,11 +16,13 @@ sys.path.insert(0, str(ROOT / "src"))
 
 from report_automator import ConfigError, InputFileError, NoValidRowsError, load_config, run_report  # noqa: E402
 from report_automator.cleaner import CHECK, FIXED, REMOVED  # noqa: E402
+from report_automator.parsing import format_inr  # noqa: E402
 
 SAMPLE_DIR = ROOT / "sample_data"
 SAMPLE_CONFIG = ROOT / "configs" / "demo_store.yaml"
 
-st.set_page_config(page_title="Sales Report Automator", page_icon="📊", layout="wide")
+st.set_page_config(page_title="Sales Report Automator", page_icon="📊", layout="wide",
+                   initial_sidebar_state="collapsed")
 
 st.title("Sales Report Automator")
 st.write(
@@ -27,6 +30,8 @@ st.write(
     "Get back a clean Excel report and a one-page PDF in seconds, plus a list of "
     "every row that was fixed or removed and why."
 )
+st.caption("Files are processed in memory for this session only and are not stored. "
+           "Business name and client settings are in the sidebar (top-left arrow).")
 
 with st.sidebar:
     st.header("Settings")
@@ -93,23 +98,53 @@ col2.download_button("⬇ Download PDF summary", result.pdf_bytes, file_name=f"{
                      mime="application/pdf", width="stretch")
 
 st.subheader("Key numbers")
-kpis = s.kpis()
-for row_start in range(0, len(kpis), 4):
-    cols = st.columns(4)
-    for col, (label, value) in zip(cols, kpis[row_start:row_start + 4]):
-        col.metric(label, value)
+
+
+def rupees(value: float) -> str:
+    """Whole rupees keep the big numbers readable on narrow screens."""
+    return format_inr(value, s.currency, decimals=0)
+
+
+tiles = [("Net sales", rupees(s.net_revenue), f"Gross {s.money(s.gross_sales)} minus returns {s.money(s.returns)}")]
+if s.bill_count is not None:
+    tiles.append(("Bills", f"{s.bill_count:,}", None))
+if s.avg_bill_value is not None:
+    tiles.append(("Average bill", rupees(s.avg_bill_value), s.money(s.avg_bill_value)))
+if s.units_sold is not None:
+    tiles.append(("Units sold", f"{s.units_sold:,.0f}", None))
+tiles.append(("Returns / refunds", rupees(s.returns), s.money(s.returns)))
+best_day, best_value = s.best_day
+tiles.append((f"Best day ({rupees(best_value)})", best_day.strftime("%a %d %b"), best_day.strftime("%A %d %B %Y")))
+for row_start in range(0, len(tiles), 3):
+    for col, (label, value, help_text) in zip(st.columns(3), tiles[row_start:row_start + 3]):
+        col.metric(label, value, help=help_text)
 
 st.subheader("What stands out")
 for line in s.insights:
     st.markdown(f"- {line}")
 
 left, right = st.columns(2)
+sales_axis = alt.Axis(format=",.0f", title=f"Sales ({s.currency})")
 with left:
     st.markdown("**Top products by sales**")
-    st.bar_chart(s.by_product.head(10).set_index("product")["revenue"], horizontal=True)
+    top = s.by_product.head(10)
+    bars = alt.Chart(top).mark_bar().encode(
+        x=alt.X("revenue:Q", axis=sales_axis),
+        y=alt.Y("product:N", sort="-x", title=None,  # biggest seller at the top
+                axis=alt.Axis(labelLimit=220)),
+        tooltip=[alt.Tooltip("product:N", title="Product"),
+                 alt.Tooltip("revenue:Q", title=f"Sales ({s.currency})", format=",.2f")],
+    )
+    st.altair_chart(bars, width="stretch")
 with right:
     st.markdown("**Daily sales**")
-    st.line_chart(s.by_day.set_index("date")["revenue"])
+    line = alt.Chart(s.by_day).mark_line().encode(
+        x=alt.X("date:T", title=None, axis=alt.Axis(format="%d %b")),
+        y=alt.Y("revenue:Q", axis=sales_axis),
+        tooltip=[alt.Tooltip("date:T", title="Date", format="%a %d %b %Y"),
+                 alt.Tooltip("revenue:Q", title=f"Sales ({s.currency})", format=",.2f")],
+    )
+    st.altair_chart(line, width="stretch")
 
 st.subheader("Data quality")
 q1, q2, q3, q4 = st.columns(4)

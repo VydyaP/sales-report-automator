@@ -23,7 +23,9 @@ def test_demo_button_builds_report():
     assert not at.exception
     assert "Report ready" in at.success[0].value
     labels = {m.label: m.value for m in at.metric}
-    assert labels["Net sales"] == "₹5,18,322.00"
+    assert labels["Net sales"] == "₹5,18,322"
+    assert labels["Bills"] == "1,840"
+    assert labels["Best day (₹10,707)"] == "Sun 23 Aug"
     assert labels["Rows read"] == "3,612"
 
 

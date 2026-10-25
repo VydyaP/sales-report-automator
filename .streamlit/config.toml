@@ -1,0 +1,3 @@
+[server]
+# Matches the 25 MB limit enforced by the tool itself, so the upload box shows the real limit.
+maxUploadSize = 25
