@@ -1,0 +1,1225 @@
+Date,Invoice No,Product,Category,Quantity,Price,Total,Payment
+31-07-26,NA/00620,Glucose Biscuits 250g,Snacks,4,30.00,₹120.00,Cash
+31/07/2026,NA/00620,Idli Rava 1kg,Groceries,1,64,64,Cash
+2026-07-31,NA/00620,Curd 500g,Dairy,3,₹35.00,105,Cash
+2026-07-31,NA/00620,Milk 500ml,Dairy,1,Rs. 28,₹28.00,Cash
+31/07/2026,NA/00621,Tea Powder 250g,Beverages,1,₹140.00,140,UPI
+31-07-26,NA/00621,Masala Peanuts 200g,Snacks,1,45.00,Rs. 45,UPI
+31/07/2026,NA/00622,Sona Masoori Rice 5kg,Groceries,1,₹340.00,₹340.00,UPI
+31/07/2026,NA/00622,Agarbatti Pack,Household,2,Rs. 35,₹70.00,UPI
+01/08/2026,NA/00623,Milk 500ml,Dairy,2,₹28.00,₹56.00,Credit
+01/08/2026,NA/00624,Idli Rava 1kg,Groceries,3,₹64.00,₹192.00,upi
+01/08/2026,NA/00624,Masala Peanuts 200g,Snacks,2,45.00,90,upi
+01/08/2026,NA/00624,Paneer 200g,Dairy,1,90,90,upi
+2026-08-01,NA/00625,Milk 500ml,Dairy,2,28.00,56.00,GPay
+01/08/2026,NA/00625,Detergent Powder 1kg,Household,1,110,110,GPay
+01/08/2026,NA/00625,Wheat Atta 5kg,Groceries,1,Rs. 260,Rs. 260,GPay
+01/08/2026,NA/00626,Butter 100g,Dairy,2,58,₹116.00,cash
+01 Aug 2026,NA/00626,Sunflower Oil 1L,Groceries,2,Rs. 155,Rs. 310,cash
+01/08/2026,NA/00627,Sunflower Oil 1 L,Groceries,1,155,155,PhonePe
+2026-08-01,NA/00628,Jaggery 1kg,Groceries,1,Rs. 70,₹70.00,GPay
+2026-08-01,NA/00628,Glucose Biscuits 250g,Snacks,1,Rs. 30,Rs. 30,GPay
+01/08/2026,NA/00629,Sona Masoori Rice 5kg,Groceries,2,₹340.00,Rs. 680,PhonePe
+2026-08-01,NA/00630,Agarbatti Pack,Household,1,₹35.00,₹35.00,UPI
+01 Aug 2026,NA/00630,Sugar 1kg,Groceries,2,48.00,₹96.00,UPI
+01/08/2026,NA/00631,Milk 500 ml,Dairy,1,28,₹28.00,Cash
+01/08/2026,NA/00631,Masala Peanuts 200g,Snacks,2,45,90.00,Cash
+01/08/2026,NA/00631,Sona Masoori Rice 5kg,Groceries,1,340.00,340,Cash
+01/08/2026,NA/00632,Sugar 1kg,Groceries,2,₹48.00,96,Cash
+01/08/2026,NA/00633,Rusk 300g,Snacks,3,₹50.00,₹150.00,Cash
+01 Aug 2026,NA/00633,Moong Dal 500g,Groceries,1,₹72.00,₹72.00,Cash
+2026-08-01,NA/00634,Idli Rava 1kg,Groceries,1,Rs. 64,₹64.00,upi
+2026-08-01,NA/00635,Panner 200g,Dairy,2,₹90.00,180.00,UPI
+2026-08-01,NA/00635,Toor Dal 1kg,Groceries,3,₹165.00,Rs. 495,UPI
+01/08/2026,NA/00636,Wheat Atta 5kg,Groceries,1,260,260,GPay
+01 Aug 2026,NA/00636,Dishwash Bar 3pc,Household,1,45,45.00,GPay
+01/08/2026,NA/00637,Masala Peanuts 200g,Snacks,2,₹45.00,90,upi
+01/08/2026,NA/00637,Sona Masoori Rice 5kg,Groceries,1,₹340.00,Rs. 340,upi
+01/08/2026,NA/00638,Glucose Biscuits 250g,Snacks,1,Rs. 30,₹30.00,Credit
+01/08/2026,NA/00639,Glucose Biscuits 250g,Snacks,1,Rs. 30,₹30.00,card
+2026-08-01,NA/00640,Masala Peanuts 200g,Snacks,2,₹45.00,₹90.00,upi
+01/08/2026,NA/00641,Sona Masoori Rice 5kg,Groceries,2,340,Rs. 680,upi
+01-08-26,NA/00641,Dishwash Bar 3pc,Household,1,45.00,45.00,upi
+2026-08-01,NA/00642,Curd 500g,Dairy,2,₹35.00,₹70.00,Cash
+01/08/2026,NA/00642,Toor Dal 1kg,Groceries,3,165,₹495.00,Cash
+2026-08-01,NA/00642,Paneer 200g,Dairy,1,90,₹90.00,Cash
+01/08/2026,NA/00643,Masala Peanuts 200g,Snacks,2,₹45.00,90,PhonePe
+01/08/2026,NA/00643,Milk 500 ml,Dairy,2,28,₹56.00,PhonePe
+01/08/2026,NA/00644,Wheat Atta 5kg,Groceries,3,Rs. 260,₹780.00,Cash
+2026-08-01,NA/00644,Sunflower Oil 1 L,Groceries,1,155,Rs. 155,Cash
+01/08/2026,NA/00644,Toor Dal 1kg,Groceries,3,₹165.00,Rs. 495,Cash
+01/08/2026,NA/00644,Banana Chips 200g,Snacks,1,₹60.00,₹60.00,Cash
+01/08/2026,NA/00645,Rusk 300g,Snacks,1,Rs. 50,50.00,PhonePe
+01/08/2026,NA/00646,Sona Masoori Rice 5kg,Groceries,2,340.00,₹680.00,GPay
+02 Aug 2026,NA/00647,Milk 500ml,Dairy,1,₹28.00,₹28.00,UPI
+02 Aug 2026,NA/00648,Sunflower Oil 1 L,Groceries,1,Rs. 155,155.00,Cash
+02/08/2026,NA/00649,Tea Powder 250g,Beverages,1,₹140.00,₹140.00,UPI
+02/08/2026,NA/00650,Paneer 200g,Dairy,2,₹90.00,₹180.00,Cash
+2026-08-02,NA/00650,TOOR DAL 1KG,Groceries,2,₹165.00,₹330.00,Cash
+02/08/2026,NA/00651,Sugar 1kg,Groceries,1,48,₹48.00,UPI
+02-08-26,NA/00652,Groundnut Oil 1L,Groceries,1,210,₹210.00,cash
+2026-08-02,NA/00652,Banana Chips 200g,Snacks,1,60,60,cash
+02/08/2026,NA/00653,Milk 500ml,Dairy,1,₹28.00,,PhonePe
+02/08/2026,NA/00654,Curd 500g,Dairy,2,Rs. 35,70.00,PhonePe
+02 Aug 2026,NA/00655,Sona Masoori Rice 5kg,Groceries,1,340,₹340.00,PhonePe
+02/08/2026,NA/00655,Idli Rava 1kg,Groceries,2,Rs. 64,₹128.00,PhonePe
+2026-08-02,NA/00656,Toor Dal 1kg,Groceries,1,₹165.00,165,cash
+02/08/2026,NA/00657,Panner 200g,Dairy,1,90,90.00,Cash
+02 Aug 2026,NA/00658,Rusk 300g,Snacks,1,50,50,UPI
+02/08/2026,NA/00658,Milk 500ml,Dairy,1,₹28.00,28,UPI
+02/08/2026,NA/00659,Milk 500ml,Dairy,3,₹28.00,Rs. 84,GPay
+02 Aug 2026,NA/00659,Dishwash Bar 3pc,Household,2,45,₹90.00,GPay
+2026-08-02,NA/00660,Masala Peanuts 200g,Snacks,1,₹45.00,45.00,Cash
+02/08/2026,NA/00660,Sugar 1kg,Groceries,3,48,Rs. 144,Cash
+2026-08-02,NA/00661,Milk 500ml,Dairy,1,₹28.00,Rs. 28,GPay
+02/08/2026,NA/00661,Curd 500g,Dairy,1,Rs. 35,35.00,GPay
+02/08/2026,NA/00662,Curd 500g,Dairy,1,₹35.00,₹35.00,Card
+2026-08-02,NA/00663,Toor Dal 1kg,Groceries,1,165,Rs. 165,cash
+02-08-26,NA/00663,Sugar 1kg,Groceries,1,₹48.00,48,cash
+2026-08-02,NA/00664,Toor Dal 1kg,Groceries,1,₹165.00,165,UPI
+02 Aug 2026,NA/00665,Banana Chips 200g,Snacks,1,₹60.00,60.00,PhonePe
+02 Aug 2026,NA/00665,Sugar 1kg,Groceries,4,₹48.00,Rs. 192,PhonePe
+2026-08-02,NA/00666,Sunflower Oil 1L,Groceries,3,₹155.00,465.00,PhonePe
+2026-08-02,NA/00666,Rusk 300g,Snacks,1,50,50.00,PhonePe
+02/08/2026,NA/00667,Dishwash Bar 3pc,Household,3,Rs. 45,135,UPI
+02/08/2026,NA/00667,Milk 500ml,Dairy,3,Rs. 28,Rs. 84,UPI
+02/08/2026,NA/00668,Ghee 500ml,Dairy,1,330,Rs. 330,upi
+02/08/2026,NA/00668,Toor Dal (1kg),Groceries,1,₹165.00,165.00,upi
+02/08/2026,NA/00669,Dishwash Bar 3pc,Household,1,45.00,Rs. 45,UPI
+2026-08-02,NA/00669,Curd 500g,Dairy,1,₹35.00,Rs. 35,UPI
+02 Aug 2026,NA/00669,Milk 500ml,Dairy,1,Rs. 28,28.00,UPI
+02/08/2026,NA/00670,MILK 500ML,Dairy,1,₹28.00,28,PhonePe
+2026-08-02,NA/00670,Sugar 1kg,Groceries,1,Rs. 48,48,PhonePe
+03/08/2026,NA/00671,Filter Coffee Powder 500g,Beverages,2,Rs. 260,520.00,Card
+03/08/2026,NA/00672,Idli Rava 1kg,Groceries,1,₹64.00,Rs. 64,GPay
+03/08/2026,NA/00673,Sona Masoori Rice 5kg,Groceries,1,Rs. 340,₹340.00,Cash
+03/08/2026,NA/00673,Detergent Powder 1kg,Household,2,110.00,₹220.00,Cash
+03/08/2026,NA/00674,Curd 500g,Dairy,1,Rs. 35,35.00,upi
+03/08/2026,NA/00675,Idli Rava 1kg,Groceries,4,₹64.00,₹256.00,UPI
+2026-08-03,NA/00676,Curd 500g,Dairy,3,₹35.00,105,GPay
+03/08/2026,NA/00677,Milk 500 ml,Dairy,1,28,28,UPI
+03/08/2026,NA/00677,Butter 100g,Dairy,1,₹58.00,Rs. 58,UPI
+03/08/2026,NA/00678,Milk 500 ml,Dairy,1,₹28.00,28,upi
+03/08/2026,NA/00678,Idli Rava 1kg,Groceries,1,₹64.00,₹64.00,upi
+03/08/2026,NA/00678,Dishwash Bar 3pc,Household,1,Rs. 45,₹45.00,upi
+03/08/2026,NA/00678,Detergent Powder 1kg,Household,1,₹110.00,110.00,upi
+03-08-26,NA/00679,Curd 500g,Dairy,1,₹35.00,₹35.00,PhonePe
+03/08/2026,NA/00679,Sugar 1kg,Groceries,1,48.00,Rs. 48,PhonePe
+03/08/2026,NA/00680,Milk 500 ml,Dairy,1,₹28.00,28,card
+03/08/2026,NA/00681,Glucose Biscuits 250g,Snacks,2,₹30.00,60.00,card
+03 Aug 2026,NA/00681,Ghee 500ml,Dairy,1,Rs. 330,330,card
+03 Aug 2026,NA/00681,Badam Drink Mix 200g,Beverages,1,120,120,card
+03 Aug 2026,NA/00681,Sugar 1kg,Groceries,1,48.00,48,card
+03/08/2026,NA/00682,Milk 500ml,Dairy,1,₹28.00,₹28.00,GPay
+03/08/2026,NA/00683,Milk 500ml,Dairy,1,₹28.00,Rs. 28,PhonePe
+03/08/2026,NA/00684,Glucose Biscuits 250g,Snacks,2,30.00,₹60.00,upi
+03/08/2026,NA/00684,Sunflower Oil 1 L,Groceries,1,₹155.00,₹155.00,upi
+03/08/2026,NA/00685,Banana Chips 200g,Snacks,1,Rs. 60,60.00,PhonePe
+03/08/2026,NA/00685,Ghee 500ml,Dairy,1,₹330.00,Rs. 330,PhonePe
+2026-08-03,NA/00686,Banana Chips 200g,Snacks,4,₹60.00,₹240.00,Cash
+03/08/2026,NA/00687,Milk 500ml,Dairy,3,₹28.00,₹84.00,cash
+2026-08-03,NA/00687,Toor Dal 1kg,Groceries,3,₹165.00,495,cash
+03 Aug 2026,NA/00688,Rusk 300g,Snacks,1,₹50.00,₹50.00,Credit
+03/08/2026,NA/00688,Idli Rava 1kg,Groceries,4,₹64.00,₹256.00,Credit
+04/08/2026,NA/00689,Sunflower Oil 1L,Groceries,1,155,₹155.00,Card
+04/08/2026,NA/00690,Banana Chips 200g,Snacks,3,Rs. 60,180,UPI
+04/08/2026,NA/00690,Sugar 1kg,Groceries,1,48,Rs. 48,UPI
+04-08-26,NA/00691,Butter 100g,Dairy,1,58,Rs. 58,cash
+04/08/2026,NA/00692,Masala Peanuts 200g,Snacks,1,Rs. 45,45.00,PhonePe
+04/08/2026,NA/00692,Milk 500ml,Dairy,1,₹28.00,28.00,PhonePe
+04/08/2026,NA/00693,Milk 500ml,Dairy,2,28,₹56.00,upi
+04/08/2026,NA/00693,Glucose Biscuits 250g,Snacks,1,₹30.00,₹30.00,upi
+2026-08-04,NA/00693,Panner 200g,Dairy,1,₹90.00,90.00,upi
+04/08/2026,NA/00694,Masala Peanuts 200g,Snacks,1,₹45.00,₹45.00,upi
+2026-08-04,NA/00694,Curd 500g,Dairy,1,Rs. 35,₹35.00,upi
+04 Aug 2026,NA/00695,Rusk 300g,Snacks,2,Rs. 50,100,UPI
+04/08/2026,NA/00696,Agarbatti Pack,Household,1,Rs. 35,₹35.00,upi
+04/08/2026,NA/00696,Milk 500 ml,Dairy,1,28,28,upi
+04/08/2026,NA/00697,Sunflower Oil 1L,Groceries,1,₹155.00,155.00,cash
+04/08/2026,NA/00697,Milk 500ml,Dairy,2,28,Rs. 56,cash
+04 Aug 2026,NA/00697,Jaggery 1kg,Groceries,1,₹70.00,70.00,cash
+04/08/2026,NA/00698,Rusk 300g,Snacks,1,₹50.00,Rs. 50,Cash
+04/08/2026,NA/00698,Badam Drink Mix 200g,Beverages,2,₹120.00,240,Cash
+04 Aug 2026,NA/00698,Banana Chips 200g,Snacks,2,Rs. 60,Rs. 120,Cash
+04/08/2026,NA/00698,Sugar 1kg,Groceries,1,48,48.00,Cash
+04/08/2026,NA/00699,Curd 500g,Dairy,1,₹35.00,Rs. 35,upi
+04/08/2026,NA/00699,Milk 500ml,Dairy,2,28,₹56.00,upi
+04/08/2026,NA/00700,Sona Masoori Rice 5kg,Groceries,2,340,680,cash
+2026-08-04,NA/00700,Milk 500ml,Dairy,3,Rs. 28,₹84.00,cash
+04 Aug 2026,NA/00701,Groundnut Oil 1L,Groceries,4,Rs. 210,₹840.00,upi
+04-08-26,NA/00702,Wheat Atta 5kg,Groceries,1,₹260.00,260,Cash
+04 Aug 2026,NA/00702,Ghee 500ml,Dairy,2,330,₹660.00,Cash
+,NA/00703,Tea Powder 250g,Beverages,2,140.00,₹280.00,PhonePe
+2026-08-04,NA/00704,Curd 500g,Dairy,3,₹35.00,105.00,GPay
+04/08/2026,NA/00704,Dishwash Bar 3pc,Household,3,Rs. 45,Rs. 135,GPay
+04/08/2026,NA/00705,Agarbatti Pack,Household,1,35,₹35.00,UPI
+2026-08-04,NA/00705,Banana Chips 200g,Snacks,1,₹60.00,60.00,UPI
+04/08/2026,NA/00705,Milk 500ml,Dairy,1,Rs. 28,₹28.00,UPI
+04/08/2026,NA/00705,Glucose Biscuits 250g,Snacks,4,₹30.00,120,UPI
+2026-08-04,NA/00706,Curd 500g,Dairy,1,Rs. 35,Rs. 35,upi
+04/08/2026,NA/00707,Sunflower Oil 1L,Groceries,2,155,Rs. 310,cash
+04/08/2026,NA/00707,Toor Dal 1kg,Groceries,1,165.00,₹165.00,cash
+04/08/2026,NA/00707,Milk 500ml,Dairy,2,28,Rs. 56,cash
+2026-08-04,NA/00708,Milk 500ml,Dairy,2,₹28.00,56,Cash
+04/08/2026,NA/00708,Sugar 1kg,Groceries,1,₹48.00,48.00,Cash
+04/08/2026,NA/00708,Ghee 500ml,Dairy,1,₹330.00,₹330.00,Cash
+04/08/2026,NA/00708,Rusk 300g,Snacks,1,50,₹50.00,Cash
+04/08/2026,NA/00709,Agarbatti Pack,Household,2,Rs. 35,70,PhonePe
+04/08/2026,NA/00709,Groundnut Oil 1L,Groceries,1,Rs. 210,₹210.00,PhonePe
+2026-08-04,NA/00710,Sona Masoori Rice 5kg,Groceries,1,₹340.00,₹340.00,Cash
+04/08/2026,NA/00710,Sunflower Oil 1L,Groceries,2,155,Rs. 310,Cash
+04/08/2026,NA/00711,Butter 100g,Dairy,2,₹58.00,116.00,Cash
+04 Aug 2026,NA/00711,Curd 500g,Dairy,2,₹35.00,70,Cash
+05/08/2026,NA/00712,Banana Chips 200g,Snacks,2,60,Rs. 120,GPay
+05/08/2026,NA/00712,Sugar 1kg,Groceries,3,₹48.00,₹144.00,GPay
+2026-08-05,NA/00712,Ghee 500ml,Dairy,1,₹330.00,330,GPay
+05 Aug 2026,NA/00713,Ghee 500ml,Dairy,1,₹330.00,Rs. 330,PhonePe
+05/08/2026,NA/00714,Badam Drink Mix 200g,Beverages,1,₹120.00,₹120.00,cash
+05/08/2026,NA/00714,Sona Masoori Rice 5kg,Groceries,1,Rs. 340,340,cash
+2026-08-05,NA/00715,Milk 500ml,Dairy,2,₹28.00,₹56.00,UPI
+05/08/2026,NA/00715,Dishwash Bar 3pc,Household,2,₹45.00,₹90.00,UPI
+05/08/2026,NA/00715,Detergent Powder 1kg,Household,1,₹110.00,110.00,UPI
+05/08/2026,NA/00716,Paneer 200g,Dairy,1,90,₹90.00,PhonePe
+05/08/2026,NA/00716,Milk 500ml,Dairy,1,₹28.00,₹28.00,PhonePe
+05/08/2026,NA/00716,Detergent Powder 1kg,Household,4,Rs. 110,440,PhonePe
+05 Aug 2026,NA/00717,Banana Chips 200g,Snacks,2,₹60.00,Rs. 120,cash
+2026-08-05,NA/00718,Milk 500 ml,Dairy,1,₹28.00,Rs. 28,Cash
+05/08/2026,NA/00718,Curd 500g,Dairy,1,₹35.00,Rs. 35,Cash
+2026-08-05,NA/00718,Jaggery 1kg,Groceries,2,70,₹140.00,Cash
+05/08/2026,NA/00718,Sona Masoori Rice 5kg,Groceries,1,340,₹340.00,Cash
+05 Aug 2026,NA/00719,Sona Masoori Rice 5kg,Groceries,2,340.00,Rs. 680,GPay
+05-08-26,NA/00719,MILK 500ML,Dairy,1,Rs. 28,28,GPay
+2026-08-05,NA/00720,Milk 500ml,Dairy,3,28,84.00,cash
+2026-08-05,NA/00721,Toor Dal 1kg,Groceries,1,165,Rs. 165,UPI
+05/08/2026,NA/00721,Idli Rava 1kg,Groceries,1,₹64.00,64,UPI
+05/08/2026,NA/00722,Sugar 1kg,Groceries,3,48.00,144,Cash
+05/08/2026,NA/00723,Sugar 1kg,Groceries,2,48.00,₹96.00,upi
+05/08/2026,NA/00724,Sona Masoori Rice 5kg,Groceries,1,340.00,₹340.00,Cash
+05 Aug 2026,NA/00725,Masala Peanuts 200g,Snacks,1,₹45.00,Rs. 45,UPI
+05/08/2026,NA/00725,Sona Masoori Rice 5kg,Groceries,1,₹340.00,₹340.00,UPI
+05/08/2026,NA/00725,Tea Powder 250g,Beverages,1,Rs. 140,Rs. 140,UPI
+05/08/2026,NA/00726,Curd 500g,Dairy,1,₹35.00,Rs. 35,cash
+05-08-26,NA/00726,Paneer 200g,Dairy,2,Rs. 90,180,cash
+05/08/2026,NA/00727,Masala Peanuts 200g,Snacks,1,Rs. 45,₹45.00,Cash
+05/08/2026,NA/00728,Masala Peanuts 200g,Snacks,1,Rs. 45,Rs. 45,upi
+05-08-26,NA/00728,Glucose Biscuits 250g,Snacks,3,30,₹90.00,upi
+05/08/2026,NA/00728,MILK 500ML,Dairy,1,₹28.00,₹28.00,upi
+05-08-26,NA/00729,Sunflower Oil 1L,Groceries,1,Rs. 155,₹155.00,upi
+05/08/2026,NA/00730,Tea Powder 250g,Beverages,2,₹140.00,Rs. 280,card
+2026-08-05,NA/00730,Idli Rava 1kg,Groceries,1,₹64.00,64,card
+06 Aug 2026,NA/00731,Sona Masoori Rice 5kg,Groceries,1,340,₹340.00,Credit
+06/08/2026,NA/00731,Tea Powder 250g,Beverages,1,140,140.00,Credit
+06/08/2026,NA/00732,Agarbatti Pack,Household,1,35,₹35.00,PhonePe
+2026-08-06,NA/00732,Milk 500ml,Dairy,1,28,Rs. 28,PhonePe
+06/08/2026,NA/00733,Sunflower Oil 1L,Groceries,2,Rs. 155,310.00,upi
+06/08/2026,NA/00734,Glucose Biscuits 250g,Snacks,2,30.00,60,cash
+06/08/2026,NA/00735,Glucose Biscuits 250g,Snacks,1,30,Rs. 30,PhonePe
+06/08/2026,NA/00736,Milk 500ml,Dairy,1,28,28,PhonePe
+06 Aug 2026,NA/00736,Sugar 1kg,Groceries,4,Rs. 48,₹192.00,PhonePe
+2026-08-06,NA/00737,Detergent Powder 1kg,Household,1,110,Rs. 110,Cash
+2026-08-06,NA/00738,Sugar 1kg,Groceries,1,48,₹48.00,cash
+06 Aug 2026,NA/00739,Glucose Biscuits 250g,Snacks,2,Rs. 30,60,GPay
+2026-08-06,NA/00740,Jaggery 1kg,Groceries,2,70,Rs. 140,cash
+06/08/2026,NA/00740,Masala Peanuts 200g,Snacks,2,Rs. 45,₹90.00,cash
+06/08/2026,NA/00741,Tea Powder 250g,Beverages,1,₹140.00,Rs. 140,cash
+2026-08-06,NA/00741,Milk 500ml,Dairy,1,28,Rs. 28,cash
+06/08/2026,NA/00741,Idli Rava 1kg,Groceries,2,64,₹128.00,cash
+2026-08-06,NA/00742,Tea Powder 250g,Beverages,1,₹140.00,₹140.00,UPI
+06/08/2026,NA/00742,Glucose Biscuits 250g,Snacks,1,₹30.00,Rs. 30,UPI
+06 Aug 2026,NA/00743,Glucose Biscuits 250g,Snacks,1,Rs. 30,₹30.00,Cash
+2026-08-06,NA/00743,MILK 500ML,Dairy,1,28,₹28.00,Cash
+06/08/2026,NA/00744,Glucose Biscuits 250g,Snacks,1,Rs. 30,Rs. 30,PhonePe
+06/08/2026,NA/00745,Milk 500ml,Dairy,1,28,28.00,Cash
+06/08/2026,NA/00745,Curd 500g,Dairy,1,35,35,Cash
+06/08/2026,NA/00745,Filter Coffee Powder 500g,Beverages,3,Rs. 260,₹780.00,Cash
+06/08/2026,NA/00746,Milk 500ml,Dairy,1,₹28.00,Rs. 28,card
+2026-08-07,NA/00747,Milk 500ml,Dairy,1,28,28,Credit
+2026-08-07,NA/00747,Curd 500g,Dairy,2,₹35.00,Rs. 70,Credit
+2026-08-07,NA/00748,toor dal 1 kg,Groceries,1,165.00,₹165.00,Cash
+2026-08-07,NA/00748,Sunflower Oil 1L,Groceries,1,155,155,Cash
+07/08/2026,NA/00749,Glucose Biscuits 250g,Snacks,1,₹30.00,30.00,GPay
+07/08/2026,NA/00749,Sugar 1kg,Groceries,1,Rs. 48,Rs. 48,GPay
+07/08/2026,NA/00749,Detergent Powder 1kg,Household,2,110.00,₹220.00,GPay
+07 Aug 2026,NA/00750,Rusk 300g,Snacks,1,50,₹50.00,Credit
+07/08/2026,NA/00751,Milk 500ml,Dairy,3,28.00,84,PhonePe
+07/08/2026,NA/00752,Sunflower Oil 1 L,Groceries,1,₹155.00,155.00,cash
+07/08/2026,NA/00752,Butter 100g,Dairy,1,₹58.00,58.00,cash
+2026-08-07,NA/00753,Milk 500ml,Dairy,1,₹28.00,28.00,UPI
+2026-08-07,NA/00754,Dishwash Bar 3pc,Household,1,45,45,cash
+07 Aug 2026,NA/00754,Milk 500 ml,Dairy,1,₹28.00,₹28.00,cash
+07/08/2026,NA/00754,Curd 500g,Dairy,2,35,Rs. 70,cash
+07/08/2026,NA/00755,Curd 500g,Dairy,1,35.00,35,upi
+07/08/2026,NA/00755,Sugar 1kg,Groceries,2,Rs. 48,₹96.00,upi
+07/08/2026,NA/00755,Masala Peanuts 200g,Snacks,1,45,45,upi
+07/08/2026,NA/00756,Butter 100g,Dairy,1,58,58.00,UPI
+2026-08-07,NA/00756,Sona Masoori Rice 5kg,Groceries,1,Rs. 340,₹340.00,UPI
+07/08/2026,NA/00756,Banana Chips 200g,Snacks,2,60,120.00,UPI
+07/08/2026,NA/00757,Milk 500 ml,Dairy,1,₹28.00,28,UPI
+07/08/2026,NA/00757,Masala Peanuts 200g,Snacks,1,₹45.00,Rs. 45,UPI
+07/08/2026,NA/00758,Wheat Atta 5kg,Groceries,1,260.00,Rs. 260,upi
+2026-08-07,NA/00758,Dishwash Bar 3pc,Household,3,₹45.00,₹135.00,upi
+07/08/2026,NA/00758,Sugar 1kg,Groceries,1,₹48.00,Rs. 48,upi
+2026-08-07,NA/00759,Curd 500g,Dairy,1,₹35.00,N/A,cash
+07/08/2026,NA/00759,Detergent Powder 1kg,Household,,,Rs. 330,cash
+07 Aug 2026,NA/00759,Milk 500ml,Dairy,1,₹28.00,28.00,cash
+2026-08-07,NA/00760,Masala Peanuts 200g,Snacks,2,₹45.00,Rs. 90,upi
+2026-08-07,NA/00760,MILK 500ML,Dairy,1,28,28,upi
+07/08/2026,NA/00760,Moong Dal 500g,Groceries,1,Rs. 72,Rs. 72,upi
+07/08/2026,NA/00761,Milk 500ml,Dairy,1,28,₹28.00,upi
+07 Aug 2026,NA/00761,Curd 500g,Dairy,1,₹35.00,₹35.00,upi
+2026-08-07,NA/00762,Milk 500ml,Dairy,1,₹28.00,₹28.00,PhonePe
+07/08/2026,NA/00762,Banana Chips 200g,Snacks,1,₹60.00,₹60.00,PhonePe
+07/08/2026,NA/00763,Curd 500g,Dairy,1,₹35.00,Rs. 35,card
+07/08/2026,NA/00763,Sunflower Oil 1 L,Groceries,3,155.00,465,card
+07/08/2026,NA/00763,Sugar 1kg,Groceries,2,₹48.00,₹96.00,card
+2026-08-07,NA/00764,Detergent Powder 1kg,Household,2,Rs. 110,₹220.00,GPay
+2026-08-07,NA/00765,Milk 500ml,Dairy,1,₹28.00,₹28.00,Cash
+2026-08-07,NA/00765,Masala Peanuts 200g,Snacks,1,₹45.00,₹45.00,Cash
+07/08/2026,NA/00765,Glucose Biscuits 250g,Snacks,2,₹30.00,₹60.00,Cash
+07-08-26,NA/00766,Banana Chips 200g,Snacks,2,60.00,₹120.00,upi
+07/08/2026,NA/00766,Detergent Powder 1kg,Household,1,Rs. 110,110.00,upi
+2026-08-07,NA/00767,Curd 500g,Dairy,3,35.00,₹105.00,PhonePe
+07 Aug 2026,NA/00767,Toor Dal 1kg,Groceries,1,Rs. 165,Rs. 165,PhonePe
+07/08/2026,NA/00768,Masala Peanuts 200g,Snacks,2,Rs. 45,₹90.00,GPay
+07/08/2026,NA/00768,Dishwash Bar 3pc,Household,1,Rs. 45,45,GPay
+07 Aug 2026,NA/00768,Idli Rava 1kg,Groceries,1,64,Rs. 64,GPay
+08/08/2026,NA/00769,Rusk 300g,Snacks,2,₹50.00,100,cash
+08-08-26,NA/00770,Banana Chips 200g,Snacks,1,Rs. 60,60.00,upi
+08 Aug 2026,NA/00770,Groundnut Oil 1L,Groceries,1,Rs. 210,210.00,upi
+08 Aug 2026,NA/00771,Paneer 200g,Dairy,3,Rs. 90,270,upi
+08/08/2026,NA/00771,Milk 500ml,Dairy,1,₹28.00,28.00,upi
+08/08/2026,NA/00771,Agarbatti Pack,Household,1,Rs. 35,₹35.00,upi
+08/08/2026,NA/00772,Wheat Atta 5kg,Groceries,1,₹260.00,260.00,cash
+2026-08-08,NA/00772,Idli Rava 1kg,Groceries,1,64,64.00,cash
+08 Aug 2026,NA/00772,Filter Coffee Powder 500g,Beverages,1,Rs. 260,260,cash
+08/08/2026,NA/00773,Sunflower Oil 1L,Groceries,2,₹155.00,310,GPay
+08/08/2026,NA/00774,Sunflower Oil 1L,Groceries,2,₹155.00,Rs. 310,cash
+08/08/2026,NA/00774,Milk 500ml,Dairy,3,28,84.00,cash
+08/08/2026,NA/00775,Sugar 1kg,Groceries,1,₹48.00,₹48.00,Cash
+08/08/2026,NA/00775,Glucose Biscuits 250g,Snacks,1,Rs. 30,30,Cash
+08 Aug 2026,NA/00775,Butter 100g,Dairy,1,₹58.00,₹58.00,Cash
+08/08/2026,NA/00775,Curd 500g,Dairy,2,₹35.00,₹70.00,Cash
+08/08/2026,NA/00776,Sunflower Oil 1L,Groceries,1,₹155.00,155,cash
+08/08/2026,NA/00776,Moong Dal 500g,Groceries,1,72,Rs. 72,cash
+08-08-26,NA/00777,Curd 500g,Dairy,1,Rs. 35,₹35.00,Cash
+08/08/2026,NA/00778,Curd 500g,Dairy,1,35,Rs. 35,cash
+08/08/2026,NA/00778,Detergent Powder 1kg,Household,2,Rs. 110,220,cash
+2026-08-08,NA/00778,Dishwash Bar 3pc,Household,2,45,₹90.00,cash
+08/08/2026,NA/00779,Moong Dal 500g,Groceries,1,₹72.00,Rs. 72,UPI
+08-08-26,NA/00779,Detergent Powder 1kg,Household,1,110,Rs. 110,UPI
+08/08/2026,NA/00779,Masala Peanuts 200g,Snacks,1,₹45.00,₹45.00,UPI
+2026-08-08,NA/00779,MILK 500ML,Dairy,1,28.00,₹28.00,UPI
+08/08/2026,NA/00780,Milk 500 ml,Dairy,1,28.00,28,upi
+08/08/2026,NA/00780,Sunflower Oil 1 L,Groceries,2,₹155.00,Rs. 310,upi
+08/08/2026,NA/00780,Banana Chips 200g,Snacks,1,60,₹60.00,upi
+08 Aug 2026,NA/00780,Moong Dal 500g,Groceries,4,72,288,upi
+08-08-26,NA/00781,Milk 500ml,Dairy,2,28,₹56.00,Cash
+08 Aug 2026,NA/00782,Dishwash Bar 3pc,Household,3,₹45.00,₹135.00,Card
+2026-08-08,NA/00782,Curd 500g,Dairy,1,₹35.00,₹35.00,Card
+2026-08-08,NA/00783,Masala Peanuts 200g,Snacks,4,₹45.00,₹180.00,PhonePe
+08/08/2026,NA/00783,Toor Dal (1kg),Groceries,1,₹165.00,₹165.00,PhonePe
+08-08-26,NA/00784,Curd 500g,Dairy,1,₹35.00,₹35.00,GPay
+08/08/2026,NA/00784,Rusk 300g,Snacks,1,Rs. 50,50,GPay
+08/08/2026,NA/00785,Milk 500ml,Dairy,1,Rs. 28,Rs. 28,cash
+08 Aug 2026,NA/00785,Filter Coffee Powder 500g,Beverages,3,260,780.00,cash
+2026-08-08,NA/00786,Rusk 300g,Snacks,2,₹50.00,100,Credit
+08/08/2026,NA/00786,Glucose Biscuits 250g,Snacks,1,30,Rs. 30,Credit
+08/08/2026,NA/00787,Sunflower Oil 1L,Groceries,1,Rs. 155,₹155.00,upi
+08 Aug 2026,NA/00787,Detergent Powder 1kg,Household,2,₹110.00,₹220.00,upi
+08/08/2026,NA/00787,glucose biscuits 250g,Snacks,1,Rs. 30,₹30.00,upi
+08/08/2026,NA/00787,Curd 500g,Dairy,1,35.00,₹35.00,upi
+08/08/2026,NA/00788,Groundnut Oil 1L,Groceries,3,₹210.00,Rs. 630,UPI
+09/08/2026,NA/00789,Milk 500ml,Dairy,1,₹28.00,₹28.00,upi
+09/08/2026,NA/00790,Wheat Atta 5kg,Groceries,2,260.00,Rs. 520,Cash
+2026-08-09,NA/00791,Sona Masoori Rice 5kg,Groceries,1,340,₹340.00,UPI
+09 Aug 2026,NA/00791,Wheat Atta 5kg,Groceries,1,260.00,260,UPI
+09/08/2026,NA/00791,Masala Peanuts 200g,Snacks,1,45,Rs. 45,UPI
+09/08/2026,NA/00792,Moong Dal 500g,Groceries,1,72.00,₹72.00,GPay
+09/08/2026,NA/00793,Toor Dal 1kg,Groceries,2,₹165.00,330.00,GPay
+09 Aug 2026,NA/00793,Sunflower Oil 1L,Groceries,1,155.00,155,GPay
+09/08/2026,NA/00794,Idli Rava 1kg,Groceries,2,64,Rs. 128,cash
+09 Aug 2026,NA/00794,Dishwash Bar 3pc,Household,1,45.00,45,cash
+2026-08-09,NA/00795,MILK 500ML,Dairy,2,28,56.00,GPay
+09/08/2026,NA/00795,Curd 500g,Dairy,1,35.00,₹35.00,GPay
+09-08-26,NA/00795,Dishwash Bar 3pc,Household,1,₹45.00,Rs. 45,GPay
+09/08/2026,NA/00796,Sugar 1kg,Groceries,4,48,192.00,Cash
+09/08/2026,NA/00797,Butter 100g,Dairy,3,58.00,₹174.00,PhonePe
+09/08/2026,NA/00797,Curd 500g,Dairy,2,₹35.00,₹70.00,PhonePe
+09 Aug 2026,NA/00797,Toor Dal 1kg,Groceries,2,₹165.00,₹330.00,PhonePe
+2026-08-09,NA/00798,Banana Chips 200g,Snacks,1,60,60,PhonePe
+09 Aug 2026,NA/00799,Masala Peanuts 200g,Snacks,2,Rs. 45,90,upi
+2026-08-09,NA/00800,Milk 500ml,Dairy,3,28.00,₹84.00,UPI
+09/08/2026,NA/00800,Curd 500g,Dairy,2,₹35.00,70.00,UPI
+09/08/2026,NA/00800,Rusk 300g,Snacks,1,₹50.00,50,UPI
+09 Aug 2026,NA/00801,Milk 500 ml,Dairy,2,28,₹56.00,Cash
+2026-08-09,NA/00801,Tea Powder 250g,Beverages,1,₹140.00,Rs. 140,Cash
+2026-08-09,NA/00802,Idli Rava 1kg,Groceries,2,₹64.00,128,UPI
+09/08/2026,NA/00802,Ghee 500ml,Dairy,2,₹330.00,660,UPI
+09/08/2026,NA/00803,Agarbatti Pack,Household,1,35,₹35.00,cash
+09-08-26,NA/00803,Detergent Powder 1kg,Household,3,110,330,cash
+09/08/2026,NA/00804,Detergent Powder 1kg,Household,1,₹110.00,₹110.00,Cash
+2026-08-09,NA/00805,Rusk 300g,Snacks,2,₹50.00,₹100.00,upi
+09 Aug 2026,NA/00805,Milk 500ml,Dairy,2,28.00,56,upi
+09-08-26,NA/00806,Paneer 200g,Dairy,1,₹90.00,Rs. 90,PhonePe
+09/08/2026,NA/00806,Curd 500g,Dairy,1,35,Rs. 35,PhonePe
+09 Aug 2026,NA/00806,glucose biscuits 250g,Snacks,3,Rs. 30,90,PhonePe
+09/08/2026,NA/00807,Milk 500ml,Dairy,1,28,28.00,Card
+09/08/2026,NA/00807,glucose biscuits 250g,Snacks,2,30,60,Card
+09/08/2026,NA/00808,Dishwash Bar 3pc,Household,2,Rs. 45,Rs. 90,card
+09/08/2026,NA/00808,Sona Masoori Rice 5kg,Groceries,1,Rs. 340,₹340.00,card
+2026-08-09,NA/00809,Milk 500 ml,Dairy,1,28.00,₹28.00,GPay
+09/08/2026,NA/00809,Sona Masoori Rice 5kg,Groceries,1,₹340.00,340,GPay
+2026-08-09,NA/00810,Milk 500ml,Dairy,1,Rs. 28,Rs. 28,card
+09/08/2026,NA/00810,Ghee 500ml,Dairy,1,Rs. 330,₹330.00,card
+09/08/2026,NA/00810,Filter Coffee Powder 500g,Beverages,1,260,₹260.00,card
+09/08/2026,NA/00811,Moong Dal 500g,Groceries,4,72,₹288.00,Credit
+09/08/2026,NA/00811,Banana Chips 200g,Snacks,1,60,60,Credit
+09/08/2026,NA/00812,Glucose Biscuits 250g,Snacks,4,30,120.00,Card
+09/08/2026,NA/00812,Filter Coffee Powder 500g,Beverages,1,260,260.00,Card
+10/08/2026,NA/00813,Milk 500ml,Dairy,2,28,₹56.00,cash
+10 Aug 2026,NA/00814,Toor Dal (1kg),Groceries,2,₹165.00,330.00,Cash
+10/08/2026,NA/00814,Curd 500g,Dairy,1,₹35.00,35,Cash
+10/08/2026,NA/00815,Milk 500ml,Dairy,2,₹28.00,₹56.00,GPay
+10/08/2026,NA/00815,Sunflower Oil 1L,Groceries,3,Rs. 155,₹465.00,GPay
+10/08/2026,NA/00816,Glucose Biscuits 250g,Snacks,1,Rs. 30,Rs. 30,cash
+10/08/2026,NA/00817,Sugar 1kg,Groceries,3,₹48.00,144.00,Credit
+10/08/2026,NA/00817,Curd 500g,Dairy,1,₹35.00,Rs. 35,Credit
+2026-08-10,NA/00818,Sunflower Oil 1L,Groceries,1,155,155.00,UPI
+10 Aug 2026,NA/00818,Banana Chips 200g,Snacks,2,60.00,Rs. 120,UPI
+10/08/2026,NA/00818,Rusk 300g,Snacks,1,50,₹50.00,UPI
+10 Aug 2026,NA/00819,toor dal 1 kg,Groceries,1,₹165.00,165,cash
+10/08/2026,NA/00819,Idli Rava 1kg,Groceries,1,₹64.00,64,cash
+2026-08-10,NA/00820,Milk 500ml,Dairy,1,₹28.00,₹28.00,Cash
+10 Aug 2026,NA/00821,Banana Chips 200g,Snacks,3,₹60.00,₹180.00,cash
+10/08/2026,NA/00821,Sugar 1kg,Groceries,1,₹48.00,48.00,cash
+10/08/2026,NA/00821,Sunflower Oil 1 L,Groceries,1,₹155.00,₹155.00,cash
+10/08/2026,NA/00821,Toor Dal 1kg,Groceries,1,₹165.00,₹165.00,cash
+10/08/2026,NA/00822,Tea Powder 250g,Beverages,1,₹140.00,Rs. 140,Credit
+10/08/2026,NA/00822,Toor Dal 1kg,Groceries,4,₹165.00,660.00,Credit
+2026-08-10,NA/00823,Sugar 1kg,Groceries,2,Rs. 48,Rs. 96,UPI
+10/08/2026,NA/00823,Curd 500g,Dairy,3,Rs. 35,₹105.00,UPI
+10/08/2026,NA/00824,Toor Dal 1kg,Groceries,4,165,660.00,PhonePe
+10/08/2026,NA/00824,Sona Masoori Rice 5kg,Groceries,2,₹340.00,680.00,PhonePe
+10/08/2026,NA/00824,Glucose Biscuits 250g,Snacks,1,30,30.00,PhonePe
+10-08-26,NA/00824,Rusk 300g,Snacks,1,₹50.00,₹50.00,PhonePe
+10 Aug 2026,NA/00825,Butter 100g,Dairy,1,₹58.00,Rs. 58,cash
+10/08/2026,NA/00826,Milk 500 ml,Dairy,3,28.00,₹84.00,PhonePe
+10 Aug 2026,NA/00827,Moong Dal 500g,Groceries,1,₹72.00,₹72.00,GPay
+10 Aug 2026,NA/00827,Curd 500g,Dairy,1,₹35.00,Rs. 35,GPay
+10/08/2026,NA/00828,Milk 500ml,Dairy,2,28.00,₹56.00,card
+10/08/2026,NA/00828,Sona Masoori Rice 5kg,Groceries,1,Rs. 340,Rs. 340,card
+10/08/2026,NA/00829,Moong Dal 500g,Groceries,1,₹72.00,Rs. 72,cash
+2026-08-10,NA/00830,Paneer 200g,Dairy,1,90.00,₹90.00,cash
+10/08/2026,NA/00830,Moong Dal 500g,Groceries,2,Rs. 72,Rs. 144,cash
+10/08/2026,NA/00831,Detergent Powder 1kg,Household,1,Rs. 110,110.00,cash
+10/08/2026,NA/00832,Glucose Biscuits 250g,Snacks,1,30,30,UPI
+10 Aug 2026,NA/00832,Banana Chips 200g,Snacks,1,Rs. 60,₹60.00,UPI
+10/08/2026,NA/00833,Curd 500g,Dairy,1,₹35.00,₹35.00,cash
+10/08/2026,NA/00833,Wheat Atta 5kg,Groceries,1,260,Rs. 260,cash
+2026-08-10,NA/00834,Moong Dal 500g,Groceries,1,₹72.00,72,upi
+11/08/2026,NA/00835,Masala Peanuts 200g,Snacks,1,Rs. 45,45.00,cash
+11/08/2026,NA/00835,Curd 500g,Dairy,1,35,₹35.00,cash
+11/08/2026,NA/00835,Curd 500g,Dairy,1,35,₹35.00,cash
+11/08/2026,NA/00836,Jaggery 1kg,Groceries,1,70,70.00,upi
+11/08/2026,NA/00836,Ghee 500ml,Dairy,1,Rs. 330,330,upi
+11 Aug 2026,NA/00837,Rusk 300g,Snacks,1,50.00,₹50.00,PhonePe
+2026-08-11,NA/00837,Wheat Atta 5kg,Groceries,1,260.00,₹260.00,PhonePe
+11/08/2026,NA/00838,Paneer 200g,Dairy,1,₹90.00,₹90.00,Card
+11/08/2026,NA/00839,Milk 500ml,Dairy,1,₹28.00,28,cash
+11/08/2026,NA/00839,Banana Chips 200g,Snacks,2,Rs. 60,₹120.00,cash
+11/08/2026,NA/00839,Dishwash Bar 3pc,Household,2,45,₹90.00,cash
+11/08/2026,NA/00840,Milk 500ml,Dairy,3,₹28.00,84,Cash
+11/08/2026,NA/00840,Wheat Atta 5kg,Groceries,2,₹260.00,₹520.00,Cash
+11/08/2026,NA/00841,Milk 500ml,Dairy,1,₹28.00,Rs. 28,GPay
+11/08/2026,NA/00842,Detergent Powder 1kg,Household,2,₹110.00,₹220.00,cash
+2026-08-11,NA/00842,Curd 500g,Dairy,1,35,₹35.00,cash
+2026-08-11,NA/00843,Glucose Biscuits 250g,Snacks,1,30,Rs. 30,card
+11/08/2026,NA/00843,Badam Drink Mix 200g,Beverages,1,₹120.00,Rs. 120,card
+11/08/2026,NA/00843,Milk 500ml,Dairy,1,28.00,28,card
+11/08/2026,NA/00844,Curd 500g,Dairy,3,₹35.00,Rs. 105,Credit
+11/08/2026,NA/00844,Ghee 500ml,Dairy,2,₹330.00,660,Credit
+11/08/2026,NA/00845,Sona Masoori Rice 5kg,Groceries,3,Rs. 340,1020,Cash
+2026-08-11,NA/00845,Agarbatti Pack,Household,1,35,35.00,Cash
+11/08/2026,NA/00846,Masala Peanuts 200g,Snacks,1,45,45,GPay
+11/08/2026,NA/00847,Jaggery 1kg,Groceries,1,70,70,cash
+11/08/2026,NA/00847,Sugar 1kg,Groceries,4,48,Rs. 192,cash
+2026-08-11,NA/00847,Detergent Powder 1kg,Household,2,110.00,Rs. 220,cash
+11/08/2026,NA/00848,Glucose Biscuits 250g,Snacks,1,30,₹30.00,Cash
+11/08/2026,NA/00848,Toor Dal (1kg),Groceries,2,165,₹330.00,Cash
+11/08/2026,NA/00849,Sunflower Oil 1 L,Groceries,4,Rs. 155,₹620.00,PhonePe
+2026-08-11,NA/00849,Glucose Biscuits 250g,Snacks,2,₹30.00,₹60.00,PhonePe
+11/08/2026,NA/00849,Wheat Atta 5kg,Groceries,1,260,₹260.00,PhonePe
+2026-08-11,NA/00850,Glucose Biscuits 250g,Snacks,2,Rs. 30,60.00,Cash
+2026-08-11,NA/00850,Curd 500g,Dairy,1,₹35.00,35.00,Cash
+11/08/2026,NA/00850,Milk 500ml,Dairy,1,₹28.00,₹28.00,Cash
+2026-08-11,NA/00850,Jaggery 1kg,Groceries,1,70.00,70.00,Cash
+11/08/2026,NA/00851,Milk 500ml,Dairy,1,28,Rs. 28,Card
+11/08/2026,NA/00852,Tea Powder 250g,Beverages,2,Rs. 140,₹280.00,UPI
+11/08/2026,NA/00852,Sona Masoori Rice 5kg,Groceries,1,340,₹340.00,UPI
+11/08/2026,NA/00853,Dishwash Bar 3pc,Household,4,₹45.00,180,PhonePe
+11/08/2026,NA/00853,Idli Rava 1kg,Groceries,4,₹64.00,256,PhonePe
+11-08-26,NA/00853,Sugar 1kg,Groceries,1,48,Rs. 48,PhonePe
+11/08/2026,NA/00854,Moong Dal 500g,Groceries,1,Rs. 72,72.00,upi
+2026-08-11,NA/00854,Rusk 300g,Snacks,2,Rs. 50,100,upi
+2026-08-11,NA/00855,Butter 100g,Dairy,3,₹58.00,174.00,upi
+11 Aug 2026,NA/00855,Sugar 1kg,Groceries,2,₹48.00,₹96.00,upi
+12 Aug 2026,NA/00856,Rusk 300g,Snacks,1,50.00,50,UPI
+12/08/2026,NA/00857,Curd 500g,Dairy,1,35,₹35.00,cash
+12 Aug 2026,NA/00857,Milk 500ml,Dairy,2,28,₹56.00,cash
+12/08/2026,NA/00858,Milk 500ml,Dairy,1,28,₹28.00,Card
+2026-08-12,NA/00858,Filter Coffee Powder 500g,Beverages,1,₹260.00,260.00,Card
+12/08/2026,NA/00859,Toor Dal 1kg,Groceries,2,₹165.00,330,card
+12/08/2026,NA/00859,Milk 500ml,Dairy,1,28,28,card
+2026-08-12,NA/00860,MILK 500ML,Dairy,1,28,28,UPI
+12/08/2026,NA/00860,Sona Masoori Rice 5kg,Groceries,2,340.00,Rs. 680,UPI
+12/08/2026,NA/00861,Tea Powder 250g,Beverages,2,140.00,280.00,Card
+12 Aug 2026,NA/00861,TOOR DAL 1KG,Groceries,2,Rs. 165,Rs. 330,Card
+2026-08-12,NA/00861,Milk 500ml,Dairy,2,₹28.00,56,Card
+12/08/2026,NA/00862,Filter Coffee Powder 500g,Beverages,2,Rs. 260,₹520.00,UPI
+12/08/2026,NA/00862,Masala Peanuts 200g,Snacks,4,₹45.00,₹180.00,UPI
+12/08/2026,NA/00862,Milk 500ml,Dairy,1,₹28.00,Rs. 28,UPI
+12/08/2026,NA/00863,Sona Masoori Rice 5kg,Groceries,1,340,340.00,cash
+12/08/2026,NA/00864,Glucose Biscuits 250g,Snacks,1,₹30.00,Rs. 30,GPay
+12/08/2026,NA/00864,Milk 500ml,Dairy,1,₹28.00,28,GPay
+2026-08-12,NA/00864,Toor Dal 1kg,Groceries,1,Rs. 165,₹165.00,GPay
+2026-08-12,NA/00864,Curd 500g,Dairy,1,35.00,Rs. 35,GPay
+12 Aug 2026,NA/00865,Butter 100g,Dairy,1,58,₹58.00,card
+2026-08-12,NA/00866,Butter 100g,Dairy,2,58,₹116.00,Cash
+12/08/2026,NA/00866,glucose biscuits 250g,Snacks,1,30,30,Cash
+12 Aug 2026,NA/00867,Toor Dal 1kg,Groceries,1,165,165.00,upi
+2026-08-12,NA/00867,Glucose Biscuits 250g,Snacks,1,30,Rs. 30,upi
+2026-08-12,NA/00868,Curd 500g,Dairy,1,₹35.00,35,Credit
+12/08/2026,NA/00868,Toor Dal 1kg,Groceries,1,165.00,₹165.00,Credit
+12/08/2026,NA/00869,Sugar 1kg,Groceries,1,48,₹48.00,card
+12/08/2026,NA/00869,Rusk 300g,Snacks,1,₹50.00,Rs. 50,card
+12/08/2026,NA/00870,Milk 500ml,Dairy,1,₹28.00,Rs. 28,Cash
+2026-08-12,NA/00870,Masala Peanuts 200g,Snacks,1,45.00,₹45.00,Cash
+12/08/2026,NA/00871,Curd 500g,Dairy,1,₹35.00,₹35.00,cash
+12/08/2026,NA/00871,Milk 500ml,Dairy,1,₹28.00,₹28.00,cash
+2026-08-12,NA/00871,Idli Rava 1kg,Groceries,1,₹64.00,64.00,cash
+13/08/2026,NA/00872,Sona Masoori Rice 5kg,Groceries,2,Rs. 340,680,PhonePe
+2026-08-13,NA/00873,Dishwash Bar 3pc,Household,1,Rs. 45,₹45.00,GPay
+2026-08-13,NA/00873,Filter Coffee Powder 500g,Beverages,2,260,Rs. 520,GPay
+13/08/2026,NA/00873,Glucose Biscuits 250g,Snacks,1,₹30.00,30.00,GPay
+13 Aug 2026,NA/00874,Agarbatti Pack,Household,1,35,35,PhonePe
+13 Aug 2026,NA/00875,Filter Coffee Powder 500g,Beverages,2,260,₹520.00,UPI
+13/08/2026,NA/00875,Paneer 200g,Dairy,2,₹90.00,180,UPI
+2026-08-13,NA/00876,Milk 500ml,Dairy,1,₹28.00,Rs. 28,GPay
+13/08/2026,NA/00877,Glucose Biscuits 250g,Snacks,1,30,30.00,GPay
+13 Aug 2026,NA/00878,Rusk 300g,Snacks,2,50,100,UPI
+2026-08-13,NA/00878,Moong Dal 500g,Groceries,3,72.00,216,UPI
+13-08-26,NA/00878,Curd 500g,Dairy,1,Rs. 35,₹35.00,UPI
+13-08-26,NA/00879,Sona Masoori Rice 5kg,Groceries,1,340,₹340.00,Cash
+13 Aug 2026,NA/00879,Milk 500ml,Dairy,1,₹28.00,₹28.00,Cash
+13/08/2026,NA/00880,Milk 500ml,Dairy,1,₹28.00,28.00,PhonePe
+2026-08-13,NA/00881,Banana Chips 200g,Snacks,2,60,120,PhonePe
+13/08/2026,NA/00882,Agarbatti Pack,Household,1,₹35.00,Rs. 35,upi
+13/08/2026,NA/00882,Paneer 200g,Dairy,1,Rs. 90,90,upi
+13/08/2026,NA/00882,Tea Powder 250g,Beverages,2,₹140.00,₹280.00,upi
+2026-08-13,NA/00883,Sunflower Oil 1 L,Groceries,1,₹155.00,155,cash
+13/08/2026,NA/00884,Milk 500 ml,Dairy,4,28.00,₹112.00,GPay
+13 Aug 2026,NA/00884,Wheat Atta 5kg,Groceries,2,₹260.00,520,GPay
+13-08-26,NA/00884,Toor Dal 1kg,Groceries,2,165.00,Rs. 330,GPay
+2026-08-13,NA/00885,Butter 100g,Dairy,2,Rs. 58,116,Cash
+13/08/2026,NA/00886,Toor Dal 1kg,Groceries,2,165,₹330.00,cash
+13/08/2026,NA/00886,Curd 500g,Dairy,1,Rs. 35,Rs. 35,cash
+13 Aug 2026,NA/00886,Butter 100g,Dairy,1,₹58.00,₹58.00,cash
+13/08/2026,NA/00886,Idli Rava 1kg,Groceries,3,₹64.00,Rs. 192,cash
+13/08/2026,NA/00887,Detergent Powder 1kg,Household,2,₹110.00,220,cash
+2026-08-13,NA/00888,Sona Masoori Rice 5kg,Groceries,2,Rs. 340,Rs. 680,Card
+2026-08-13,NA/00889,Sunflower Oil 1L,Groceries,1,₹155.00,155.00,upi
+13/08/2026,NA/00890,Milk 500ml,Dairy,1,Rs. 28,₹28.00,GPay
+13-08-26,NA/00890,Wheat Atta 5kg,Groceries,1,₹260.00,₹260.00,GPay
+13 Aug 2026,NA/00890,Idli Rava 1kg,Groceries,2,Rs. 64,₹128.00,GPay
+14/08/2026,NA/00891,Moong Dal 500g,Groceries,1,Rs. 72,₹72.00,PhonePe
+14 Aug 2026,NA/00891,Ghee 500ml,Dairy,1,330,₹330.00,PhonePe
+14/08/2026,NA/00892,Toor Dal 1kg,Groceries,1,165.00,Rs. 165,Cash
+14/08/2026,NA/00892,Sona Masoori Rice 5kg,Groceries,2,₹340.00,Rs. 680,Cash
+2026-08-14,NA/00892,Milk 500ml,Dairy,1,28.00,Rs. 28,Cash
+14/08/2026,NA/00893,glucose biscuits 250g,Snacks,2,₹30.00,Rs. 60,cash
+14/08/2026,NA/00894,Curd 500g,Dairy,2,35,70.00,cash
+14/08/2026,NA/00894,Milk 500ml,Dairy,2,Rs. 28,₹56.00,cash
+14/08/2026,NA/00895,Sugar 1kg,Groceries,2,₹48.00,₹96.00,GPay
+14/08/2026,NA/00896,Banana Chips 200g,Snacks,4,60,240,cash
+2026-08-14,NA/00896,Idli Rava 1kg,Groceries,1,₹64.00,Rs. 64,cash
+14 Aug 2026,NA/00896,Moong Dal 500g,Groceries,1,72,72.00,cash
+14 Aug 2026,NA/00897,Tea Powder 250g,Beverages,2,₹140.00,₹280.00,Cash
+14-08-26,NA/00898,Curd 500g,Dairy,1,35.00,35,GPay
+2026-08-14,NA/00899,Milk 500ml,Dairy,1,₹28.00,28,cash
+14/08/2026,NA/00900,Milk 500ml,Dairy,1,₹28.00,28.00,card
+14/08/2026,NA/00900,Banana Chips 200g,Snacks,1,₹60.00,₹60.00,card
+14/08/2026,NA/00901,Agarbatti Pack,Household,2,35,₹70.00,PhonePe
+14 Aug 2026,NA/00902,Moong Dal 500g,Groceries,3,₹72.00,₹216.00,UPI
+14/08/2026,NA/00902,Panner 200g,Dairy,1,90,Rs. 90,UPI
+14/08/2026,NA/00902,Groundnut Oil 1L,Groceries,1,Rs. 210,₹210.00,UPI
+2026-08-14,NA/00903,Rusk 300g,Snacks,1,50,50,cash
+14 Aug 2026,NA/00903,Moong Dal 500g,Groceries,2,72.00,₹144.00,cash
+14/08/2026,NA/00903,MILK 500ML,Dairy,2,₹28.00,Rs. 56,cash
+2026-08-14,NA/00904,Filter Coffee Powder 500g,Beverages,1,₹260.00,260,PhonePe
+2026-08-14,NA/00905,Toor Dal 1kg,Groceries,1,165,₹165.00,cash
+14/08/2026,NA/00906,Detergent Powder 1kg,Household,1,110,110.00,PhonePe
+14/08/2026,NA/00906,Paneer 200g,Dairy,2,90.00,₹180.00,PhonePe
+14/08/2026,NA/00907,Tea Powder 250g,Beverages,2,140,₹280.00,upi
+2026-08-14,NA/00908,Sunflower Oil 1L,Groceries,3,155.00,Rs. 465,GPay
+14-08-26,NA/00909,MILK 500ML,Dairy,3,28.00,84.00,GPay
+14/08/2026,NA/00910,Butter 100g,Dairy,1,Rs. 58,58.00,GPay
+14/08/2026,NA/00910,Curd 500g,Dairy,1,₹35.00,Rs. 35,GPay
+14/08/2026,NA/00910,MILK 500ML,Dairy,2,Rs. 28,56,GPay
+14-08-26,NA/00911,Ghee 500ml,Dairy,1,330,330.00,GPay
+14/08/2026,NA/00911,Idli Rava 1kg,Groceries,2,₹64.00,128,GPay
+15/08/2026,NA/00912,Idli Rava 1kg,Groceries,3,₹64.00,192.00,Cash
+2026-08-15,NA/00913,Rusk 300g,Snacks,4,₹50.00,200.00,PhonePe
+15/08/2026,NA/00913,Banana Chips 200g,Snacks,2,₹60.00,Rs. 120,PhonePe
+15 Aug 2026,NA/00913,Sona Masoori Rice 5kg,Groceries,2,₹340.00,₹680.00,PhonePe
+15/08/2026,NA/00914,Paneer 200g,Dairy,2,₹90.00,180,Cash
+2026-08-15,NA/00915,Masala Peanuts 200g,Snacks,3,Rs. 45,135,PhonePe
+15/08/2026,NA/00916,Toor Dal 1kg,Groceries,1,165,165,UPI
+15/08/2026,NA/00916,Rusk 300g,Snacks,3,₹50.00,₹150.00,UPI
+2026-08-15,NA/00917,Glucose Biscuits 250g,Snacks,2,₹30.00,60.00,UPI
+15/08/2026,NA/00917,Banana Chips 200g,Snacks,1,60.00,60,UPI
+15-08-26,NA/00918,Sunflower Oil 1L,Groceries,1,155.00,Rs. 155,cash
+15/08/2026,NA/00919,Banana Chips 200g,Snacks,1,Rs. 60,Rs. 60,cash
+15/08/2026,NA/00920,Detergent Powder 1kg,Household,2,₹110.00,₹220.00,Card
+15/08/2026,NA/00921,Idli Rava 1kg,Groceries,2,₹64.00,128,UPI
+15 Aug 2026,NA/00921,Milk 500ml,Dairy,4,Rs. 28,₹112.00,UPI
+2026-08-15,NA/00922,Milk 500ml,Dairy,1,₹28.00,28.00,UPI
+15/08/2026,NA/00923,Banana Chips 200g,Snacks,1,60,₹60.00,UPI
+15/08/2026,NA/00923,Toor Dal 1kg,Groceries,1,165,165.00,UPI
+2026-08-15,NA/00924,Agarbatti Pack,Household,1,35,₹35.00,cash
+15-08-26,NA/00924,Paneer 200g,Dairy,3,Rs. 90,Rs. 270,cash
+15 Aug 2026,NA/00925,Curd 500g,Dairy,1,Rs. 35,₹35.00,UPI
+2026-08-15,NA/00926,Moong Dal 500g,Groceries,1,₹72.00,₹72.00,GPay
+15/08/2026,NA/00927,MILK 500ML,Dairy,2,28,56,UPI
+15/08/2026,NA/00927,Banana Chips 200g,Snacks,1,₹60.00,Rs. 60,UPI
+15/08/2026,NA/00928,Sunflower Oil 1L,Groceries,1,Rs. 155,155,upi
+2026-08-15,NA/00928,Glucose Biscuits 250g,Snacks,1,₹30.00,30,upi
+15/08/2026,NA/00929,Butter 100g,Dairy,1,₹58.00,₹58.00,UPI
+15-08-26,NA/00929,Dishwash Bar 3pc,Household,1,Rs. 45,45,UPI
+15/08/2026,NA/00930,Agarbatti Pack,Household,1,35,₹35.00,upi
+15 Aug 2026,NA/00931,Agarbatti Pack,Household,3,₹35.00,105.00,card
+15/08/2026,NA/00931,Glucose Biscuits 250g,Snacks,4,₹30.00,120.00,card
+15/08/2026,NA/00932,Glucose Biscuits 250g,Snacks,1,30,30,PhonePe
+15/08/2026,NA/00932,Milk 500ml,Dairy,1,28.00,Rs. 28,PhonePe
+15/08/2026,NA/00933,Milk 500ml,Dairy,1,Rs. 28,28,cash
+15/08/2026,NA/00933,Curd 500g,Dairy,1,₹35.00,35,cash
+15/08/2026,NA/00934,Milk 500 ml,Dairy,1,₹28.00,₹28.00,UPI
+2026-08-15,NA/00935,Butter 100g,Dairy,3,₹58.00,₹174.00,cash
+16 Aug 2026,NA/00936,Banana Chips 200g,Snacks,3,60.00,180.00,UPI
+16/08/2026,NA/00936,TOOR DAL 1KG,Groceries,3,165,Rs. 495,UPI
+16 Aug 2026,NA/00936,Butter 100g,Dairy,2,58,₹116.00,UPI
+2026-08-16,NA/00937,Jaggery 1kg,Groceries,1,Rs. 70,₹70.00,Card
+16/08/2026,NA/00937,Dishwash Bar 3pc,Household,3,₹45.00,135,Card
+2026-08-16,NA/00937,Masala Peanuts 200g,Snacks,3,45.00,135.00,Card
+16 Aug 2026,NA/00937,Milk 500ml,Dairy,1,₹28.00,28,Card
+16 Aug 2026,NA/00938,Badam Drink Mix 200g,Beverages,1,₹120.00,₹120.00,PhonePe
+16 Aug 2026,NA/00938,Glucose Biscuits 250g,Snacks,1,30.00,30,PhonePe
+2026-08-16,NA/00939,Sugar 1kg,Groceries,2,₹48.00,96,upi
+16 Aug 2026,NA/00939,Curd 500g,Dairy,1,₹35.00,₹35.00,upi
+16 Aug 2026,NA/00940,Moong Dal 500g,Groceries,1,₹72.00,72.00,cash
+16 Aug 2026,NA/00941,Jaggery 1kg,Groceries,3,70,Rs. 210,Cash
+16/08/2026,NA/00941,Butter 100g,Dairy,1,₹58.00,₹58.00,Cash
+16/08/2026,NA/00942,Banana Chips 200g,Snacks,3,60.00,₹180.00,Credit
+16 Aug 2026,NA/00942,Sona Masoori Rice 5kg,Groceries,2,₹340.00,680,Credit
+2026-08-16,NA/00942,Moong Dal 500g,Groceries,2,Rs. 72,₹144.00,Credit
+16/08/2026,NA/00943,Masala Peanuts 200g,Snacks,2,45,90,PhonePe
+16 Aug 2026,NA/00943,Milk 500ml,Dairy,1,Rs. 28,₹28.00,PhonePe
+16 Aug 2026,NA/00943,Panner 200g,Dairy,1,90.00,₹90.00,PhonePe
+16/08/2026,NA/00943,Ghee 500ml,Dairy,1,₹330.00,330,PhonePe
+16/08/2026,NA/00944,Butter 100g,Dairy,1,₹58.00,Rs. 58,Cash
+16/08/2026,NA/00944,Rusk 300g,Snacks,4,50.00,₹200.00,Cash
+16 Aug 2026,NA/00945,Curd 500g,Dairy,2,Rs. 35,70.00,upi
+16/08/2026,NA/00945,Toor Dal 1kg,Groceries,1,165,165,upi
+16/08/2026,NA/00946,Milk 500ml,Dairy,1,28,₹28.00,Cash
+16 Aug 2026,NA/00947,Curd 500g,Dairy,1,₹35.00,₹35.00,PhonePe
+16/08/2026,NA/00947,Milk 500ml,Dairy,2,28.00,Rs. 56,PhonePe
+16-08-26,NA/00948,Rusk 300g,Snacks,1,₹50.00,50,Credit
+16/08/2026,NA/00949,Sugar 1kg,Groceries,1,48.00,₹48.00,PhonePe
+16/08/2026,NA/00949,Idli Rava 1kg,Groceries,3,Rs. 64,₹192.00,PhonePe
+16/08/2026,NA/00950,Tea Powder 250g,Beverages,1,140.00,Rs. 140,Card
+16/08/2026,NA/00950,Milk 500ml,Dairy,1,₹28.00,₹28.00,Card
+16/08/2026,NA/00951,Sugar 1kg,Groceries,2,48,₹96.00,Cash
+2026-08-16,NA/00952,Dishwash Bar 3pc,Household,2,Rs. 45,Rs. 90,PhonePe
+2026-08-16,NA/00953,Butter 100g,Dairy,1,Rs. 58,58,upi
+16/08/2026,NA/00953,Milk 500ml,Dairy,1,28,₹28.00,upi
+2026-08-16,NA/00954,Masala Peanuts 200g,Snacks,2,45,₹90.00,GPay
+16/08/2026,NA/00955,Milk 500ml,Dairy,2,₹28.00,₹56.00,Credit
+16/08/2026,NA/00955,Rusk 300g,Snacks,1,50,₹50.00,Credit
+16/08/2026,NA/00956,Idli Rava 1kg,Groceries,2,Rs. 64,Rs. 128,UPI
+17/08/2026,NA/00957,Toor Dal 1kg,Groceries,1,₹165.00,₹165.00,cash
+17/08/2026,NA/00957,Badam Drink Mix 200g,Beverages,1,120.00,Rs. 120,cash
+17/08/2026,NA/00957,Masala Peanuts 200g,Snacks,2,Rs. 45,Rs. 90,cash
+17/08/2026,NA/00958,Detergent Powder 1kg,Household,2,110.00,₹220.00,UPI
+17/08/2026,NA/00958,Milk 500ml,Dairy,1,₹28.00,₹28.00,UPI
+17-08-26,NA/00958,Curd 500g,Dairy,2,35.00,₹70.00,UPI
+17/08/2026,NA/00959,Sona Masoori Rice 5kg,Groceries,1,340.00,₹340.00,PhonePe
+17/08/2026,NA/00960,Sunflower Oil 1L,Groceries,2,155.00,Rs. 310,GPay
+17/08/2026,NA/00961,Sunflower Oil 1L,Groceries,1,₹155.00,155.00,GPay
+2026-08-17,NA/00961,Dishwash Bar 3pc,Household,1,₹45.00,45,GPay
+17/08/2026,NA/00961,Sugar 1kg,Groceries,2,48,₹96.00,GPay
+17 Aug 2026,NA/00962,Butter 100g,Dairy,3,₹58.00,174,GPay
+17/08/2026,NA/00962,Sugar 1kg,Groceries,1,₹48.00,48,GPay
+2026-08-17,NA/00963,Sugar 1kg,Groceries,1,48,₹48.00,PhonePe
+17/08/2026,NA/00963,Milk 500 ml,Dairy,1,28,₹28.00,PhonePe
+17-08-26,NA/00964,Banana Chips 200g,Snacks,3,₹60.00,Rs. 180,UPI
+2026-08-17,NA/00964,Dishwash Bar 3pc,Household,1,₹45.00,₹45.00,UPI
+17/08/2026,NA/00965,Milk 500ml,Dairy,1,₹28.00,Rs. 28,GPay
+2026-08-17,NA/00966,Toor Dal 1kg,Groceries,1,₹165.00,Rs. 165,UPI
+17/08/2026,NA/00967,Detergent Powder 1kg,Household,1,Rs. 110,₹110.00,upi
+2026-08-17,NA/00967,Curd 500g,Dairy,1,₹35.00,₹35.00,upi
+2026-08-17,NA/00967,Butter 100g,Dairy,3,₹58.00,174.00,upi
+2026-08-17,NA/00968,Agarbatti Pack,Household,1,₹35.00,₹35.00,PhonePe
+2026-08-17,NA/00968,Tea Powder 250g,Beverages,1,Rs. 140,140,PhonePe
+17/08/2026,NA/00968,Paneer 200g,Dairy,1,₹90.00,₹90.00,PhonePe
+17 Aug 2026,NA/00969,Detergent Powder 1kg,Household,1,110,₹110.00,Credit
+17/08/2026,NA/00969,Curd 500g,Dairy,1,Rs. 35,35.00,Credit
+17/08/2026,NA/00969,Milk 500 ml,Dairy,2,28,56.00,Credit
+17/08/2026,NA/00970,Toor Dal (1kg),Groceries,1,165,165.00,Cash
+17 Aug 2026,NA/00970,MILK 500ML,Dairy,1,28,28,Cash
+17/08/2026,NA/00970,Idli Rava 1kg,Groceries,2,₹64.00,128.00,Cash
+2026-08-17,NA/00971,Milk 500ml,Dairy,1,28,28,cash
+17/08/2026,NA/00971,Jaggery 1kg,Groceries,1,₹70.00,70.00,cash
+2026-08-17,NA/00972,Toor Dal 1kg,Groceries,2,₹165.00,₹330.00,UPI
+17/08/2026,NA/00972,Wheat Atta 5kg,Groceries,1,260.00,₹260.00,UPI
+17/08/2026,NA/00973,Filter Coffee Powder 500g,Beverages,1,₹260.00,Rs. 260,upi
+2026-08-17,NA/00973,Agarbatti Pack,Household,3,₹35.00,105,upi
+17/08/2026,NA/00974,Curd 500g,Dairy,1,Rs. 35,Rs. 35,Cash
+17-08-26,NA/00974,Groundnut Oil 1L,Groceries,2,Rs. 210,₹420.00,Cash
+17/08/2026,NA/00974,Idli Rava 1kg,Groceries,2,64,128,Cash
+17/08/2026,NA/00974,Dishwash Bar 3pc,Household,1,45,45.00,Cash
+2026-08-17,NA/00975,Glucose Biscuits 250g,Snacks,3,₹30.00,₹90.00,cash
+17/08/2026,NA/00976,Idli Rava 1kg,Groceries,1,Rs. 64,Rs. 64,GPay
+17/08/2026,NA/00976,Milk 500ml,Dairy,1,₹28.00,Rs. 28,GPay
+17/08/2026,NA/00977,Paneer 200g,Dairy,1,Rs. 90,90,UPI
+2026-08-17,NA/00978,Masala Peanuts 200g,Snacks,1,45,₹45.00,PhonePe
+17 Aug 2026,NA/00978,Milk 500ml,Dairy,2,28,56.00,PhonePe
+2026-08-17,NA/00978,Toor Dal 1kg,Groceries,2,₹165.00,330.00,PhonePe
+18 Aug 2026,NA/00979,Masala Peanuts 200g,Snacks,4,Rs. 45,₹180.00,card
+18/08/2026,NA/00979,Paneer 200g,Dairy,1,Rs. 90,90.00,card
+18 Aug 2026,NA/00979,Butter 100g,Dairy,3,58.00,₹174.00,card
+2026-08-18,NA/00980,Toor Dal 1kg,Groceries,2,165.00,330,card
+2026-08-18,NA/00980,Dishwash Bar 3pc,Household,1,45,45.00,card
+18 Aug 2026,NA/00980,Butter 100g,Dairy,1,Rs. 58,58.00,card
+18/08/2026,NA/00980,Milk 500ml,Dairy,2,₹28.00,56,card
+18/08/2026,NA/00981,Agarbatti Pack,Household,1,Rs. 35,Rs. 35,GPay
+18/08/2026,NA/00982,Banana Chips 200g,Snacks,1,₹60.00,Rs. 60,Cash
+18 Aug 2026,NA/00983,Agarbatti Pack,Household,1,₹35.00,₹35.00,Cash
+2026-08-18,NA/00984,Filter Coffee Powder 500g,Beverages,1,₹260.00,₹260.00,Cash
+2026-08-18,NA/00985,Idli Rava 1kg,Groceries,1,64.00,₹64.00,PhonePe
+18/08/2026,NA/00985,Curd 500g,Dairy,2,Rs. 35,Rs. 70,PhonePe
+2026-08-18,NA/00986,Curd 500g,Dairy,1,Rs. 35,₹35.00,PhonePe
+18/08/2026,NA/00987,Dishwash Bar 3pc,Household,1,45,45.00,upi
+18/08/2026,NA/00988,TOOR DAL 1KG,Groceries,1,Rs. 165,₹165.00,UPI
+18/08/2026,NA/00988,Idli Rava 1kg,Groceries,1,Rs. 64,64.00,UPI
+18/08/2026,NA/00988,Curd 500g,Dairy,1,35,35,UPI
+18/08/2026,NA/00989,Milk 500 ml,Dairy,1,₹28.00,28,GPay
+18/08/2026,NA/00989,Tea Powder 250g,Beverages,1,₹140.00,140,GPay
+18/08/2026,NA/00990,Milk 500ml,Dairy,1,₹28.00,₹28.00,GPay
+18/08/2026,NA/00990,Detergent Powder 1kg,Household,1,₹110.00,₹110.00,GPay
+18/08/2026,NA/00991,Milk 500ml,Dairy,1,₹28.00,₹28.00,cash
+18/08/2026,NA/00991,Badam Drink Mix 200g,Beverages,3,₹120.00,360.00,cash
+18-08-26,NA/00991,Groundnut Oil 1L,Groceries,1,₹210.00,₹210.00,cash
+18/08/2026,NA/00992,Wheat Atta 5kg,Groceries,4,₹260.00,"₹1,040.00",PhonePe
+18/08/2026,NA/00992,Rusk 300g,Snacks,2,Rs. 50,₹100.00,PhonePe
+18/08/2026,NA/00992,Milk 500ml,Dairy,3,Rs. 28,84,PhonePe
+19/08/2026,NA/00993,toor dal 1 kg,Groceries,2,165,330.00,PhonePe
+19-08-26,NA/00993,Glucose Biscuits 250g,Snacks,1,₹30.00,₹30.00,PhonePe
+2026-08-19,NA/00994,Sona Masoori Rice 5kg,Groceries,1,340,340,PhonePe
+19/08/2026,NA/00994,Milk 500 ml,Dairy,1,₹28.00,₹28.00,PhonePe
+19/08/2026,NA/00994,Curd 500g,Dairy,1,35.00,Rs. 35,PhonePe
+19/08/2026,NA/00995,Sunflower Oil 1L,Groceries,3,₹155.00,465.00,cash
+19-08-26,NA/00996,Detergent Powder 1kg,Household,1,110,₹110.00,GPay
+19/08/2026,NA/00997,Dishwash Bar 3pc,Household,1,45,₹45.00,GPay
+19 Aug 2026,NA/00998,Badam Drink Mix 200g,Beverages,2,120,240.00,GPay
+19/08/2026,NA/00998,Sunflower Oil 1L,Groceries,2,₹155.00,₹310.00,GPay
+19/08/2026,NA/00998,Dishwash Bar 3pc,Household,2,₹45.00,90,GPay
+19/08/2026,NA/00998,Milk 500ml,Dairy,1,₹28.00,28,GPay
+19 Aug 2026,NA/00999,Idli Rava 1kg,Groceries,2,64.00,₹128.00,UPI
+2026-08-19,NA/00999,Curd 500g,Dairy,2,35,70,UPI
+19/08/2026,NA/01000,Rusk 300g,Snacks,4,Rs. 50,₹200.00,PhonePe
+19/08/2026,NA/01001,Sunflower Oil 1 L,Groceries,1,155,Rs. 155,Cash
+19/08/2026,NA/01001,Ghee 500ml,Dairy,1,330,330,Cash
+19 Aug 2026,NA/01001,Toor Dal 1kg,Groceries,3,165.00,495.00,Cash
+2026-08-19,NA/01002,Butter 100g,Dairy,1,₹58.00,58,GPay
+19 Aug 2026,NA/01003,Milk 500ml,Dairy,1,₹28.00,₹28.00,GPay
+19 Aug 2026,NA/01003,Ghee 500ml,Dairy,4,₹330.00,"₹1,320.00",GPay
+19/08/2026,NA/01004,Curd 500g,Dairy,2,35.00,₹70.00,cash
+19/08/2026,NA/01004,Milk 500 ml,Dairy,1,₹28.00,₹28.00,cash
+19/08/2026,NA/01004,Banana Chips 200g,Snacks,2,Rs. 60,Rs. 120,cash
+2026-08-19,NA/01004,Ghee 500ml,Dairy,3,330,Rs. 990,cash
+19/08/2026,NA/01005,Idli Rava 1kg,Groceries,1,64.00,₹64.00,Cash
+19/08/2026,NA/01005,Toor Dal 1kg,Groceries,3,₹165.00,₹495.00,Cash
+2026-08-19,NA/01005,Rusk 300g,Snacks,1,50,Rs. 50,Cash
+19/08/2026,NA/01006,Rusk 300g,Snacks,1,₹50.00,Rs. 50,UPI
+19/08/2026,NA/01007,Jaggery 1kg,Groceries,1,₹70.00,70,GPay
+20 Aug 2026,NA/01008,Paneer 200g,Dairy,2,₹90.00,180,UPI
+20/08/2026,NA/01009,Wheat Atta 5kg,Groceries,1,260.00,₹260.00,PhonePe
+20/08/2026,NA/01010,Sunflower Oil 1 L,Groceries,2,₹155.00,Rs. 310,Cash
+2026-08-20,NA/01010,Masala Peanuts 200g,Snacks,2,₹45.00,₹90.00,Cash
+20/08/2026,NA/01011,Milk 500ml,Dairy,1,₹28.00,₹28.00,Cash
+2026-08-20,NA/01011,Sona Masoori Rice 5kg,Groceries,1,340,₹340.00,Cash
+2026-08-20,NA/01012,Milk 500ml,Dairy,2,Rs. 28,₹56.00,upi
+2026-08-20,NA/01013,Toor Dal 1kg,Groceries,3,₹165.00,₹495.00,cash
+2026-08-20,NA/01013,Detergent Powder 1kg,Household,1,₹110.00,₹110.00,cash
+20/08/2026,NA/01013,Dishwash Bar 3pc,Household,2,45,₹90.00,cash
+20/08/2026,NA/01014,Butter 100g,Dairy,1,₹58.00,₹58.00,Cash
+20/08/2026,NA/01014,Milk 500ml,Dairy,4,28,₹112.00,Cash
+20/08/2026,NA/01015,Moong Dal 500g,Groceries,4,72,Rs. 288,Cash
+20/08/2026,NA/01016,Agarbatti Pack,Household,1,Rs. 35,35.00,UPI
+20/08/2026,NA/01016,Paneer 200g,Dairy,2,Rs. 90,180,UPI
+20/08/2026,NA/01017,Sugar 1kg,Groceries,2,48,96,cash
+20/08/2026,NA/01018,Butter 100g,Dairy,1,58,₹58.00,Cash
+20 Aug 2026,NA/01018,Masala Peanuts 200g,Snacks,1,45,45,Cash
+20/08/2026,NA/01018,Banana Chips 200g,Snacks,1,₹60.00,Rs. 60,Cash
+20/08/2026,NA/01018,MILK 500ML,Dairy,2,Rs. 28,₹56.00,Cash
+20 Aug 2026,NA/01019,glucose biscuits 250g,Snacks,1,30,Rs. 30,GPay
+2026-08-20,NA/01019,Butter 100g,Dairy,1,₹58.00,58,GPay
+2026-08-20,NA/01020,Curd 500g,Dairy,3,₹35.00,Rs. 105,GPay
+2026-08-20,NA/01021,Curd 500g,Dairy,2,₹35.00,₹70.00,Credit
+20/08/2026,NA/01021,Groundnut Oil 1L,Groceries,1,₹210.00,Rs. 210,Credit
+20/08/2026,NA/01022,Filter Coffee Powder 500g,Beverages,1,260,260,upi
+2026-08-20,NA/01022,Sona Masoori Rice 5kg,Groceries,1,₹340.00,₹340.00,upi
+2026-08-20,NA/01022,Jaggery 1kg,Groceries,1,70,₹70.00,upi
+20 Aug 2026,NA/01022,Toor Dal 1kg,Groceries,2,₹165.00,Rs. 330,upi
+2026-08-20,NA/01023,Glucose Biscuits 250g,Snacks,1,₹30.00,₹30.00,upi
+20/08/2026,NA/01023,Agarbatti Pack,Household,1,35,Rs. 35,upi
+20/08/2026,NA/01023,Ghee 500ml,Dairy,1,330,330,upi
+20/08/2026,NA/01024,Toor Dal 1kg,Groceries,3,165,₹495.00,PhonePe
+20 Aug 2026,NA/01024,Sunflower Oil 1L,Groceries,2,155,310.00,PhonePe
+2026-08-20,NA/01025,Curd 500g,Dairy,2,35,70,GPay
+20/08/2026,NA/01025,Filter Coffee Powder 500g,Beverages,3,260,780,GPay
+20/08/2026,NA/01025,Milk 500ml,Dairy,1,28,28.00,GPay
+20/08/2026,NA/01025,Agarbatti Pack,Household,2,Rs. 35,₹70.00,GPay
+21/08/2026,NA/01026,Milk 500ml,Dairy,1,₹28.00,28,GPay
+21/08/2026,NA/01026,Sona Masoori Rice 5kg,Groceries,2,340,680,GPay
+21/08/2026,NA/01026,Banana Chips 200g,Snacks,2,60,120,GPay
+2026-08-21,NA/01027,Milk 500ml,Dairy,4,28,₹112.00,PhonePe
+21-08-26,NA/01027,Butter 100g,Dairy,1,58.00,58.00,PhonePe
+21 Aug 2026,NA/01028,Glucose Biscuits 250g,Snacks,1,30.00,Rs. 30,card
+21/08/2026,NA/01029,Masala Peanuts 200g,Snacks,2,₹45.00,90.00,cash
+21/08/2026,NA/01029,Moong Dal 500g,Groceries,1,₹72.00,Rs. 72,cash
+2026-08-21,NA/01029,Toor Dal 1kg,Groceries,2,₹165.00,330,cash
+21/08/2026,NA/01030,Filter Coffee Powder 500g,Beverages,3,260,Rs. 780,UPI
+21/08/2026,NA/01031,Curd 500g,Dairy,3,Rs. 35,105,PhonePe
+2026-08-21,NA/01032,Milk 500ml,Dairy,1,₹28.00,₹28.00,GPay
+21 Aug 2026,NA/01033,Sunflower Oil 1L,Groceries,1,Rs. 155,₹155.00,GPay
+2026-08-21,NA/01034,Dishwash Bar 3pc,Household,2,45,Rs. 90,UPI
+2026-08-21,NA/01034,Tea Powder 250g,Beverages,2,₹140.00,280,UPI
+21/08/2026,NA/01035,Milk 500ml,Dairy,3,Rs. 28,₹84.00,cash
+21/08/2026,NA/01035,Sunflower Oil 1L,Groceries,2,Rs. 155,310.00,cash
+2026-08-21,NA/01035,Curd 500g,Dairy,1,35.00,35.00,cash
+21/08/2026,NA/01036,Paneer 200g,Dairy,2,90.00,₹180.00,UPI
+21-08-26,NA/01036,Sona Masoori Rice 5kg,Groceries,2,340.00,₹680.00,UPI
+21/08/2026,NA/01037,Idli Rava 1kg,Groceries,1,₹64.00,₹64.00,cash
+21/08/2026,NA/01037,Curd 500g,Dairy,1,Rs. 35,Rs. 35,cash
+2026-08-21,NA/01038,Paneer 200g,Dairy,1,Rs. 90,Rs. 90,cash
+2026-08-21,NA/01038,Tea Powder 250g,Beverages,1,Rs. 140,₹140.00,cash
+21/08/2026,NA/01038,Ghee 500ml,Dairy,2,₹330.00,₹660.00,cash
+21/08/2026,NA/01039,Milk 500ml,Dairy,2,Rs. 28,₹56.00,PhonePe
+2026-08-21,NA/01039,Toor Dal 1kg,Groceries,1,165,Rs. 165,PhonePe
+2026-08-21,NA/01040,MILK 500ML,Dairy,1,28.00,₹28.00,GPay
+21/08/2026,NA/01041,Curd 500g,Dairy,2,35.00,₹70.00,Cash
+21 Aug 2026,NA/01042,Dishwash Bar 3pc,Household,1,₹45.00,₹45.00,UPI
+2026-08-22,NA/01043,Milk 500ml,Dairy,4,Rs. 28,₹112.00,UPI
+22/08/2026,NA/01043,Jaggery 1kg,Groceries,1,70.00,70,UPI
+22/08/2026,NA/01043,Moong Dal 500g,Groceries,1,₹72.00,₹72.00,UPI
+22/08/2026,NA/01044,Toor Dal 1kg,Groceries,1,165.00,165,upi
+2026-08-22,NA/01045,Agarbatti Pack,Household,1,Rs. 35,Rs. 35,UPI
+2026-08-22,NA/01046,Curd 500g,Dairy,1,Rs. 35,35,PhonePe
+22/08/2026,NA/01046,Milk 500ml,Dairy,2,₹28.00,56,PhonePe
+22/08/2026,NA/01047,Glucose Biscuits 250g,Snacks,1,Rs. 30,₹30.00,Cash
+22 Aug 2026,NA/01047,Toor Dal 1kg,Groceries,4,165.00,₹660.00,Cash
+22/08/2026,NA/01048,Banana Chips 200g,Snacks,2,₹60.00,₹120.00,upi
+2026-08-22,NA/01048,Sunflower Oil 1L,Groceries,1,155,155,upi
+22/08/2026,NA/01049,Agarbatti Pack,Household,1,35,35,cash
+22 Aug 2026,NA/01050,Masala Peanuts 200g,Snacks,1,45.00,₹45.00,upi
+2026-08-22,NA/01050,Sona Masoori Rice 5kg,Groceries,1,Rs. 340,340,upi
+2026-08-22,NA/01051,MILK 500ML,Dairy,1,28.00,28,Card
+22/08/2026,NA/01052,Sugar 1kg,Groceries,1,48,₹48.00,cash
+2026-08-22,NA/01052,Toor Dal 1kg,Groceries,4,165,₹660.00,cash
+22/08/2026,NA/01053,Sugar 1kg,Groceries,1,48,Rs. 48,PhonePe
+22/08/2026,NA/01053,Jaggery 1kg,Groceries,1,70,70,PhonePe
+22-08-26,NA/01054,glucose biscuits 250g,Snacks,1,30.00,₹30.00,cash
+22/08/2026,NA/01055,Idli Rava 1kg,Groceries,1,₹64.00,₹64.00,UPI
+22/08/2026,NA/01056,Filter Coffee Powder 500g,Beverages,1,₹260.00,Rs. 260,PhonePe
+22/08/2026,NA/01056,Groundnut Oil 1L,Groceries,4,210,840.00,PhonePe
+22/08/2026,NA/01056,Agarbatti Pack,Household,2,35.00,₹70.00,PhonePe
+22/08/2026,NA/01057,Filter Coffee Powder 500g,Beverages,1,260,₹260.00,cash
+22/08/2026,NA/01057,Curd 500g,Dairy,1,₹35.00,Rs. 35,cash
+22/08/2026,NA/01057,Masala Peanuts 200g,Snacks,1,45.00,45,cash
+22/08/2026,NA/01058,Curd 500g,Dairy,1,₹35.00,₹35.00,GPay
+2026-08-22,NA/01058,Banana Chips 200g,Snacks,1,₹60.00,60,GPay
+22 Aug 2026,NA/01059,Milk 500ml,Dairy,2,₹28.00,₹56.00,cash
+22/08/2026,NA/01060,Milk 500ml,Dairy,1,Rs. 28,28,GPay
+22/08/2026,NA/01061,Milk 500ml,Dairy,2,28,Rs. 56,UPI
+22/08/2026,NA/01062,Glucose Biscuits 250g,Snacks,1,30,₹30.00,GPay
+22 Aug 2026,NA/01062,Butter 100g,Dairy,2,₹58.00,₹116.00,GPay
+22/08/2026,NA/01063,Glucose Biscuits 250g,Snacks,1,30.00,30,cash
+22 Aug 2026,NA/01064,Milk 500ml,Dairy,3,Rs. 28,Rs. 84,upi
+22/08/2026,NA/01064,Filter Coffee Powder 500g,Beverages,1,260,260.00,upi
+23/08/2026,NA/01065,Curd 500g,Dairy,1,35,35,cash
+23-08-26,NA/01065,Toor Dal 1kg,Groceries,2,165,₹330.00,cash
+23/08/2026,NA/01066,Ghee 500ml,Dairy,3,330.00,990.00,Cash
+23/08/2026,NA/01066,Jaggery 1kg,Groceries,1,Rs. 70,₹70.00,Cash
+23/08/2026,NA/01067,Sugar 1kg,Groceries,1,Rs. 48,₹48.00,Cash
+23/08/2026,NA/01068,Butter 100g,Dairy,1,₹58.00,₹58.00,GPay
+2026-08-23,NA/01069,MILK 500ML,Dairy,1,28.00,₹28.00,cash
+23/08/2026,NA/01070,Masala Peanuts 200g,Snacks,1,₹45.00,45,Cash
+23/08/2026,NA/01071,Agarbatti Pack,Household,3,₹35.00,105,UPI
+23/08/2026,NA/01072,Sugar 1kg,Groceries,1,48.00,48,PhonePe
+23/08/2026,NA/01072,Curd 500g,Dairy,2,35.00,70,PhonePe
+2026-08-23,NA/01072,Wheat Atta 5kg,Groceries,4,₹260.00,1040,PhonePe
+23/08/2026,NA/01072,Paneer 200g,Dairy,1,₹90.00,₹90.00,PhonePe
+2026-08-23,NA/01073,Banana Chips 200g,Snacks,1,60,Rs. 60,UPI
+2026-08-23,NA/01073,Sunflower Oil 1L,Groceries,3,₹155.00,Rs. 465,UPI
+2026-08-23,NA/01074,Groundnut Oil 1L,Groceries,4,₹210.00,840,UPI
+2026-08-23,NA/01075,Sugar 1kg,Groceries,1,48,₹48.00,GPay
+23-08-26,NA/01075,Milk 500ml,Dairy,1,Rs. 28,₹28.00,GPay
+23/08/2026,NA/01076,Milk 500ml,Dairy,1,Rs. 28,₹28.00,UPI
+23 Aug 2026,NA/01077,Dishwash Bar 3pc,Household,2,₹45.00,₹90.00,PhonePe
+23/08/2026,NA/01077,Curd 500g,Dairy,2,35,70,PhonePe
+23/08/2026,NA/01078,Idli Rava 1kg,Groceries,2,64,Rs. 128,PhonePe
+23 Aug 2026,NA/01078,Wheat Atta 5kg,Groceries,4,Rs. 260,Rs. 1040,PhonePe
+23-08-26,NA/01079,Rusk 300g,Snacks,1,50,50,cash
+23/08/2026,NA/01079,Milk 500ml,Dairy,1,₹28.00,₹28.00,cash
+2026-08-23,NA/01079,Toor Dal 1kg,Groceries,1,165,₹165.00,cash
+23/08/2026,NA/01080,Jaggery 1kg,Groceries,2,70.00,₹140.00,Cash
+23/08/2026,NA/01080,Butter 100g,Dairy,1,58,Rs. 58,Cash
+23/08/2026,NA/01080,Ghee 500ml,Dairy,2,330,660,Cash
+2026-08-23,NA/01081,Tea Powder 250g,Beverages,3,Rs. 140,₹420.00,PhonePe
+23-08-26,NA/01082,Masala Peanuts 200g,Snacks,1,₹45.00,45,upi
+23/08/2026,NA/01082,Filter Coffee Powder 500g,Beverages,1,260,Rs. 260,upi
+2026-08-23,NA/01082,Milk 500ml,Dairy,1,28,₹28.00,upi
+23/08/2026,NA/01083,Sugar 1kg,Groceries,1,48,48,UPI
+23/08/2026,NA/01083,Masala Peanuts 200g,Snacks,1,45.00,45,UPI
+2026-08-23,NA/01084,MILK 500ML,Dairy,1,28.00,₹28.00,cash
+23/08/2026,NA/01085,Rusk 300g,Snacks,2,Rs. 50,₹100.00,cash
+23/08/2026,NA/01085,Curd 500g,Dairy,1,35,₹35.00,cash
+23/08/2026,NA/01085,Toor Dal 1kg,Groceries,2,165,Rs. 330,cash
+23/08/2026,NA/01086,Sugar 1kg,Groceries,1,₹48.00,48,UPI
+2026-08-23,NA/01086,Sunflower Oil 1L,Groceries,2,155,₹310.00,UPI
+23-08-26,NA/01086,Toor Dal 1kg,Groceries,1,165,₹165.00,UPI
+23/08/2026,NA/01087,Glucose Biscuits 250g,Snacks,2,Rs. 30,60.00,upi
+2026-08-23,NA/01088,Detergent Powder 1kg,Household,1,110,₹110.00,upi
+23/08/2026,NA/01088,Sunflower Oil 1L,Groceries,4,₹155.00,620.00,upi
+23/08/2026,NA/01088,Groundnut Oil 1L,Groceries,2,210,420.00,upi
+23/08/2026,NA/01089,Glucose Biscuits 250g,Snacks,1,30.00,30,GPay
+23/08/2026,NA/01090,Toor Dal (1kg),Groceries,1,165.00,₹165.00,cash
+23/08/2026,NA/01091,Toor Dal 1kg,Groceries,1,165.00,165.00,GPay
+23 Aug 2026,NA/01091,Groundnut Oil 1L,Groceries,2,210.00,₹420.00,GPay
+24/08/2026,NA/01092,Wheat Atta 5kg,Groceries,1,₹260.00,260,GPay
+24/08/2026,NA/01093,Glucose Biscuits 250g,Snacks,1,Rs. 30,Rs. 30,GPay
+2026-08-24,NA/01093,Milk 500ml,Dairy,1,₹28.00,₹28.00,GPay
+2026-08-24,NA/01094,Sona Masoori Rice 5kg,Groceries,1,₹340.00,340.00,upi
+24/08/2026,NA/01094,Milk 500 ml,Dairy,1,28,Rs. 28,upi
+24/08/2026,NA/01094,Agarbatti Pack,Household,1,35.00,35.00,upi
+24 Aug 2026,NA/01095,Milk 500 ml,Dairy,2,28.00,56,GPay
+24-08-26,NA/01095,Curd 500g,Dairy,1,₹35.00,₹35.00,GPay
+24/08/2026,NA/01096,Banana Chips 200g,Snacks,1,60.00,Rs. 60,cash
+24/08/2026,NA/01097,Sugar 1kg,Groceries,1,₹48.00,Rs. 48,UPI
+24/08/2026,NA/01097,Milk 500 ml,Dairy,2,28.00,₹56.00,UPI
+2026-08-24,NA/01098,Milk 500ml,Dairy,1,₹28.00,Rs. 28,PhonePe
+2026-08-24,NA/01099,Badam Drink Mix 200g,Beverages,1,₹120.00,120,PhonePe
+24 Aug 2026,NA/01100,Panner 200g,Dairy,2,90,180,Cash
+24/08/2026,NA/01101,Milk 500ml,Dairy,1,₹28.00,₹28.00,Cash
+24 Aug 2026,NA/01101,Toor Dal 1kg,Groceries,2,165,₹330.00,Cash
+2026-08-24,NA/01102,Masala Peanuts 200g,Snacks,1,Rs. 45,₹45.00,GPay
+24/08/2026,NA/01102,Idli Rava 1kg,Groceries,1,64,Rs. 64,GPay
+24-08-26,NA/01103,Panner 200g,Dairy,1,Rs. 90,90.00,UPI
+24-08-26,NA/01103,Sunflower Oil 1L,Groceries,1,₹155.00,155,UPI
+24/08/2026,NA/01103,Glucose Biscuits 250g,Snacks,1,30,₹30.00,UPI
+24/08/2026,NA/01104,Detergent Powder 1kg,Household,1,₹110.00,110,PhonePe
+24/08/2026,NA/01104,Toor Dal 1kg,Groceries,1,165.00,₹165.00,PhonePe
+24 Aug 2026,NA/01105,Glucose Biscuits 250g,Snacks,2,30.00,Rs. 60,Cash
+24/08/2026,NA/01106,Sugar 1kg,Groceries,1,Rs. 48,₹48.00,cash
+24 Aug 2026,NA/01106,Ghee 500ml,Dairy,1,₹330.00,330,cash
+24/08/2026,NA/01107,Milk 500ml,Dairy,2,₹28.00,₹56.00,cash
+24-08-26,NA/01107,Sona Masoori Rice 5kg,Groceries,2,340,₹680.00,cash
+24/08/2026,NA/01108,Tea Powder 250g,Beverages,1,Rs. 140,140,Cash
+24 Aug 2026,NA/01108,Banana Chips 200g,Snacks,1,₹60.00,60,Cash
+24/08/2026,NA/01108,Groundnut Oil 1L,Groceries,4,210,₹840.00,Cash
+24 Aug 2026,NA/01109,Ghee 500ml,Dairy,2,330,660,cash
+24/08/2026,NA/01109,Detergent Powder 1kg,Household,1,110.00,110.00,cash
+2026-08-24,NA/01109,Jaggery 1kg,Groceries,2,70,₹140.00,cash
+2026-08-24,NA/01110,Dishwash Bar 3pc,Household,4,₹45.00,Rs. 180,Cash
+24/08/2026,NA/01111,Wheat Atta 5kg,Groceries,4,₹260.00,"₹1,040.00",upi
+25/08/2026,NA/01112,MILK 500ML,Dairy,1,Rs. 28,28.00,Cash
+25/08/2026,NA/01112,Sunflower Oil 1L,Groceries,2,155.00,Rs. 310,Cash
+25/08/2026,NA/01113,Tea Powder 250g,Beverages,1,₹140.00,₹140.00,Cash
+25/08/2026,NA/01113,Rusk 300g,Snacks,1,50,₹50.00,Cash
+2026-08-25,NA/01113,Milk 500ml,Dairy,3,28,84,Cash
+25/08/2026,NA/01114,Groundnut Oil 1L,Groceries,1,₹210.00,₹210.00,cash
+25/08/2026,NA/01115,Wheat Atta 5kg,Groceries,2,260,Rs. 520,cash
+25/08/2026,NA/01115,Milk 500 ml,Dairy,1,28,28.00,cash
+25/08/2026,NA/01116,Idli Rava 1kg,Groceries,1,₹64.00,64,cash
+2026-08-25,NA/01116,Wheat Atta 5kg,Groceries,2,₹260.00,₹520.00,cash
+25 Aug 2026,NA/01117,Moong Dal 500g,Groceries,1,₹72.00,72,cash
+25/08/2026,NA/01118,Curd 500g,Dairy,2,₹35.00,₹70.00,card
+25/08/2026,NA/01118,Groundnut Oil 1L,Groceries,1,210,₹210.00,card
+2026-08-25,NA/01118,Sona Masoori Rice 5kg,Groceries,1,₹340.00,340.00,card
+25/08/2026,NA/01119,Dishwash Bar 3pc,Household,2,45.00,90,GPay
+25 Aug 2026,NA/01119,Sona Masoori Rice 5kg,Groceries,3,Rs. 340,Rs. 1020,GPay
+25/08/2026,NA/01120,Rusk 300g,Snacks,1,50,50,cash
+25/08/2026,NA/01120,Tea Powder 250g,Beverages,1,₹140.00,140,cash
+25/08/2026,NA/01121,Masala Peanuts 200g,Snacks,3,₹45.00,₹135.00,cash
+25/08/2026,NA/01121,Curd 500g,Dairy,2,35.00,70,cash
+25/08/2026,NA/01122,glucose biscuits 250g,Snacks,2,₹30.00,60,PhonePe
+25/08/2026,NA/01123,Detergent Powder 1kg,Household,1,₹110.00,110.00,PhonePe
+25/08/2026,NA/01124,glucose biscuits 250g,Snacks,3,30,Rs. 90,PhonePe
+25/08/2026,NA/01124,Dishwash Bar 3pc,Household,4,45,180,PhonePe
+25/08/2026,NA/01124,Banana Chips 200g,Snacks,1,₹60.00,₹60.00,PhonePe
+25/08/2026,NA/01125,Milk 500ml,Dairy,2,28,Rs. 56,cash
+25/08/2026,NA/01125,Masala Peanuts 200g,Snacks,3,45,₹135.00,cash
+25/08/2026,NA/01126,Rusk 300g,Snacks,1,50.00,Rs. 50,upi
+25/08/2026,NA/01126,Milk 500ml,Dairy,1,28.00,₹28.00,upi
+25/08/2026,NA/01127,glucose biscuits 250g,Snacks,1,30.00,Rs. 30,UPI
+25 Aug 2026,NA/01128,Sugar 1kg,Groceries,2,48,₹96.00,Cash
+25/08/2026,NA/01128,Banana Chips 200g,Snacks,1,₹60.00,₹60.00,Cash
+2026-08-25,NA/01129,Toor Dal 1kg,Groceries,2,Rs. 165,Rs. 330,GPay
+25/08/2026,NA/01130,Paneer 200g,Dairy,1,90.00,Rs. 90,UPI
+2026-08-25,NA/01131,Glucose Biscuits 250g,Snacks,1,30.00,₹30.00,cash
+25/08/2026,NA/01131,Curd 500g,Dairy,2,35,₹70.00,cash
+25/08/2026,NA/01131,Sunflower Oil 1L,Groceries,1,₹155.00,155.00,cash
+25/08/2026,NA/01132,Detergent Powder 1kg,Household,1,₹110.00,₹110.00,PhonePe
+25/08/2026,NA/01132,Moong Dal 500g,Groceries,1,72,₹72.00,PhonePe
+25/08/2026,NA/01132,Agarbatti Pack,Household,1,35,₹35.00,PhonePe
+2026-08-25,NA/01132,Masala Peanuts 200g,Snacks,2,Rs. 45,₹90.00,PhonePe
+26/08/2026,NA/01133,Ghee 500ml,Dairy,1,Rs. 330,₹330.00,cash
+26/08/2026,NA/01133,Banana Chips 200g,Snacks,1,Rs. 60,60.00,cash
+26/08/2026,NA/01134,Toor Dal 1kg,Groceries,1,165,Rs. 165,GPay
+26/08/2026,NA/01135,Curd 500g,Dairy,1,35.00,₹35.00,upi
+26/08/2026,NA/01135,Milk 500ml,Dairy,4,₹28.00,₹112.00,upi
+26 Aug 2026,NA/01136,Glucose Biscuits 250g,Snacks,2,Rs. 30,₹60.00,upi
+26/08/2026,NA/01137,Dishwash Bar 3pc,Household,2,45.00,₹90.00,upi
+26 Aug 2026,NA/01138,Dishwash Bar 3pc,Household,1,₹45.00,45,PhonePe
+26/08/2026,NA/01139,Idli Rava 1kg,Groceries,4,₹64.00,256.00,Cash
+2026-08-26,NA/01140,Dishwash Bar 3pc,Household,1,₹45.00,₹45.00,UPI
+26/08/2026,NA/01140,Masala Peanuts 200g,Snacks,1,Rs. 45,45.00,UPI
+2026-08-26,NA/01141,Banana Chips 200g,Snacks,2,Rs. 60,Rs. 120,UPI
+26/08/2026,NA/01142,Glucose Biscuits 250g,Snacks,3,₹30.00,90,Cash
+2026-08-26,NA/01142,Rusk 300g,Snacks,3,₹50.00,150.00,Cash
+26/08/2026,NA/01143,Toor Dal (1kg),Groceries,1,Rs. 165,165,PhonePe
+26/08/2026,NA/01143,Glucose Biscuits 250g,Snacks,1,30.00,Rs. 30,PhonePe
+26/08/2026,NA/01143,Sugar 1kg,Groceries,2,48,96.00,PhonePe
+26/08/2026,NA/01143,Paneer 200g,Dairy,1,90,90,PhonePe
+26 Aug 2026,NA/01144,Sona Masoori Rice 5kg,Groceries,2,340,680,UPI
+26/08/2026,NA/01145,Sugar 1kg,Groceries,2,Rs. 48,96,PhonePe
+26/08/2026,NA/01145,Wheat Atta 5kg,Groceries,1,260,₹260.00,PhonePe
+26/08/2026,NA/01146,Sunflower Oil 1L,Groceries,1,155,Rs. 155,GPay
+26-08-26,NA/01146,Milk 500ml,Dairy,2,₹28.00,56,GPay
+26 Aug 2026,NA/01146,Toor Dal 1kg,Groceries,3,Rs. 165,495,GPay
+26/08/2026,NA/01147,Tea Powder 250g,Beverages,1,₹140.00,Rs. 140,card
+26 Aug 2026,NA/01147,Curd 500g,Dairy,4,₹35.00,₹140.00,card
+26/08/2026,NA/01148,Toor Dal 1kg,Groceries,1,Rs. 165,₹165.00,UPI
+26/08/2026,NA/01148,Sugar 1kg,Groceries,1,48.00,₹48.00,UPI
+26/08/2026,NA/01148,Dishwash Bar 3pc,Household,1,Rs. 45,45,UPI
+26/08/2026,NA/01149,Sunflower Oil 1 L,Groceries,1,₹155.00,155,UPI
+26/08/2026,NA/01150,Wheat Atta 5kg,Groceries,1,₹260.00,₹260.00,GPay
+2026-08-26,NA/01150,TOOR DAL 1KG,Groceries,1,₹165.00,₹165.00,GPay
+2026-08-26,NA/01151,Banana Chips 200g,Snacks,1,60,₹60.00,PhonePe
+26/08/2026,NA/01151,Sunflower Oil 1L,Groceries,1,₹155.00,₹155.00,PhonePe
+26/08/2026,NA/01151,Milk 500ml,Dairy,1,₹28.00,₹28.00,PhonePe
+26 Aug 2026,NA/01152,Sona Masoori Rice 5kg,Groceries,1,₹340.00,340.00,upi
+2026-08-26,NA/01152,Milk 500 ml,Dairy,1,₹28.00,₹28.00,upi
+26/08/2026,NA/01153,Moong Dal 500g,Groceries,3,₹72.00,Rs. 216,GPay
+27 Aug 2026,NA/01154,Sunflower Oil 1L,Groceries,3,₹155.00,₹465.00,upi
+27/08/2026,NA/01155,Sunflower Oil 1L,Groceries,3,₹155.00,₹465.00,UPI
+27/08/2026,NA/01155,Curd 500g,Dairy,1,₹35.00,₹35.00,UPI
+27 Aug 2026,NA/01156,Curd 500g,Dairy,1,35,₹35.00,Credit
+27 Aug 2026,NA/01156,Ghee 500ml,Dairy,1,330,Rs. 330,Credit
+27/08/2026,NA/01156,Milk 500ml,Dairy,1,Rs. 28,₹28.00,Credit
+27 Aug 2026,NA/01156,Agarbatti Pack,Household,2,35.00,Rs. 70,Credit
+2026-08-27,NA/01157,Glucose Biscuits 250g,Snacks,3,₹30.00,₹90.00,Cash
+27/08/2026,NA/01157,Detergent Powder 1kg,Household,1,110,110,Cash
+27 Aug 2026,NA/01157,MILK 500ML,Dairy,1,Rs. 28,₹28.00,Cash
+27-08-26,NA/01158,Idli Rava 1kg,Groceries,1,64,₹64.00,Credit
+2026-08-27,NA/01158,Sona Masoori Rice 5kg,Groceries,2,Rs. 340,680.00,Credit
+27/08/2026,NA/01159,Tea Powder 250g,Beverages,1,140,140.00,Credit
+27/08/2026,NA/01160,Curd 500g,Dairy,2,₹35.00,70,upi
+27/08/2026,NA/01160,Milk 500ml,Dairy,1,Rs. 28,₹28.00,upi
+2026-08-27,NA/01161,Banana Chips 200g,Snacks,2,60,120,upi
+27 Aug 2026,NA/01162,Milk 500ml,Dairy,2,28,₹56.00,UPI
+27/08/2026,NA/01162,Jaggery 1kg,Groceries,2,₹70.00,140.00,UPI
+27 Aug 2026,NA/01162,glucose biscuits 250g,Snacks,4,30,120.00,UPI
+27/08/2026,NA/01163,MILK 500ML,Dairy,1,₹28.00,₹28.00,PhonePe
+27/08/2026,NA/01163,Idli Rava 1kg,Groceries,2,Rs. 64,128,PhonePe
+27/08/2026,NA/01164,Curd 500g,Dairy,3,₹35.00,₹105.00,cash
+2026-08-27,NA/01165,Groundnut Oil 1L,Groceries,3,210.00,630.00,Cash
+27/08/2026,NA/01166,Masala Peanuts 200g,Snacks,2,45.00,Rs. 90,cash
+27/08/2026,NA/01166,Banana Chips 200g,Snacks,2,60,Rs. 120,cash
+27-08-26,NA/01166,Tea Powder 250g,Beverages,2,140.00,Rs. 280,cash
+27 Aug 2026,NA/01167,Moong Dal 500g,Groceries,1,Rs. 72,72,Cash
+27/08/2026,NA/01167,Curd 500g,Dairy,1,₹35.00,₹35.00,Cash
+27/08/2026,NA/01167,Sugar 1kg,Groceries,2,₹48.00,96.00,Cash
+27/08/2026,NA/01168,Glucose Biscuits 250g,Snacks,4,₹30.00,₹120.00,Cash
+27 Aug 2026,NA/01168,Curd 500g,Dairy,2,₹35.00,70.00,Cash
+2026-08-27,NA/01169,Paneer 200g,Dairy,2,Rs. 90,₹180.00,Cash
+27/08/2026,NA/01169,Milk 500ml,Dairy,1,₹28.00,₹28.00,Cash
+28 Aug 2026,NA/01170,Idli Rava 1kg,Groceries,3,64.00,192.00,cash
+28/08/2026,NA/01170,Curd 500g,Dairy,1,35.00,Rs. 35,cash
+2026-08-28,NA/01170,Filter Coffee Powder 500g,Beverages,1,₹260.00,260.00,cash
+28 Aug 2026,NA/01171,Toor Dal 1kg,Groceries,1,₹165.00,₹165.00,Credit
+28/08/2026,NA/01171,Milk 500ml,Dairy,1,Rs. 28,28,Credit
+2026-08-28,NA/01172,Paneer 200g,Dairy,1,90,90,PhonePe
+28 Aug 2026,NA/01172,Tea Powder 250g,Beverages,1,140.00,₹140.00,PhonePe
+28 Aug 2026,NA/01173,Milk 500ml,Dairy,1,Rs. 28,₹28.00,card
+28/08/2026,NA/01174,Groundnut Oil 1L,Groceries,1,210.00,Rs. 210,cash
+2026-08-28,NA/01175,Toor Dal 1kg,Groceries,1,₹165.00,165.00,cash
+28/08/2026,NA/01176,Wheat Atta 5kg,Groceries,2,Rs. 260,Rs. 520,GPay
+28/08/2026,NA/01177,Milk 500ml,Dairy,1,28,28,PhonePe
+28/08/2026,NA/01177,Sona Masoori Rice 5kg,Groceries,1,Rs. 340,₹340.00,PhonePe
+28/08/2026,NA/01178,Curd 500g,Dairy,2,₹35.00,70,PhonePe
+28/08/2026,NA/01178,Sugar 1kg,Groceries,2,48.00,96,PhonePe
+28/08/2026,NA/01178,Agarbatti Pack,Household,1,35.00,₹35.00,PhonePe
+28 Aug 2026,NA/01179,Banana Chips 200g,Snacks,1,60,₹60.00,Cash
+28/08/2026,NA/01179,Panner 200g,Dairy,2,₹90.00,180,Cash
+28/08/2026,NA/01180,Tea Powder 250g,Beverages,1,Rs. 140,Rs. 140,upi
+28/08/2026,NA/01180,Jaggery 1kg,Groceries,1,₹70.00,70,upi
+28/08/2026,NA/01180,Sona Masoori Rice 5kg,Groceries,4,340.00,1360,upi
+28/08/2026,NA/01181,Badam Drink Mix 200g,Beverages,2,₹120.00,₹240.00,upi
+2026-08-28,NA/01182,glucose biscuits 250g,Snacks,1,₹30.00,₹30.00,Cash
+28 Aug 2026,NA/01182,Milk 500ml,Dairy,1,₹28.00,28.00,Cash
+28/08/2026,NA/01182,Curd 500g,Dairy,1,35.00,35.00,Cash
+28/08/2026,NA/01183,Ghee 500ml,Dairy,3,₹330.00,Rs. 990,Card
+28-08-26,NA/01183,Curd 500g,Dairy,1,Rs. 35,₹35.00,Card
+28 Aug 2026,NA/01183,Masala Peanuts 200g,Snacks,1,45.00,45.00,Card
+28/08/2026,NA/01184,Idli Rava 1kg,Groceries,2,64.00,Rs. 128,GPay
+28 Aug 2026,NA/01185,Groundnut Oil 1L,Groceries,2,₹210.00,420,PhonePe
+28/08/2026,NA/01185,Toor Dal (1kg),Groceries,2,165,330,PhonePe
+29/08/2026,NA/01186,Curd 500g,Dairy,1,35.00,35,Cash
+29 Aug 2026,NA/01186,Sona Masoori Rice 5kg,Groceries,1,₹340.00,₹340.00,Cash
+29/08/2026,NA/01186,Filter Coffee Powder 500g,Beverages,2,260.00,Rs. 520,Cash
+29/08/2026,NA/01187,Masala Peanuts 200g,Snacks,1,₹45.00,45,Cash
+29 Aug 2026,NA/01188,Masala Peanuts 200g,Snacks,1,₹45.00,₹45.00,UPI
+29/08/2026,NA/01188,Sunflower Oil 1L,Groceries,1,Rs. 155,₹155.00,UPI
+2026-08-29,NA/01188,Detergent Powder 1kg,Household,2,₹110.00,220,UPI
+2026-08-29,NA/01188,Filter Coffee Powder 500g,Beverages,1,₹260.00,₹260.00,UPI
+2026-08-29,NA/01189,Milk 500 ml,Dairy,1,28,28.00,GPay
+29 Aug 2026,NA/01189,Masala Peanuts 200g,Snacks,1,₹45.00,₹45.00,GPay
+29/08/2026,NA/01189,Filter Coffee Powder 500g,Beverages,1,₹260.00,Rs. 260,GPay
+29 Aug 2026,NA/01190,Masala Peanuts 200g,Snacks,1,₹45.00,Rs. 45,Cash
+29/08/2026,NA/01191,Banana Chips 200g,Snacks,1,Rs. 60,60,GPay
+29/08/2026,NA/01191,Toor Dal 1kg,Groceries,1,₹165.00,₹165.00,GPay
+2026-08-29,NA/01191,Sugar 1kg,Groceries,1,48.00,48,GPay
+29/08/2026,NA/01192,Tea Powder 250g,Beverages,1,₹140.00,140,GPay
+29/08/2026,NA/01192,Sunflower Oil 1L,Groceries,1,Rs. 155,₹155.00,GPay
+29 Aug 2026,NA/01193,Sugar 1kg,Groceries,1,₹48.00,48,upi
+29/08/2026,NA/01193,Milk 500ml,Dairy,1,₹28.00,28,upi
+29 Aug 2026,NA/01194,Badam Drink Mix 200g,Beverages,1,₹120.00,120,UPI
+2026-08-29,NA/01194,Rusk 300g,Snacks,1,₹50.00,₹50.00,UPI
+29 Aug 2026,NA/01194,Sunflower Oil 1L,Groceries,1,155,₹155.00,UPI
+29/08/2026,NA/01195,Sugar 1kg,Groceries,1,48,48.00,Cash
+29/08/2026,NA/01195,Groundnut Oil 1L,Groceries,3,210,₹630.00,Cash
+29/08/2026,NA/01195,Curd 500g,Dairy,2,Rs. 35,₹70.00,Cash
+29/08/2026,NA/01196,Jaggery 1kg,Groceries,1,₹70.00,Rs. 70,UPI
+29 Aug 2026,NA/01197,Masala Peanuts 200g,Snacks,1,Rs. 45,45,Cash
+29/08/2026,NA/01197,Milk 500ml,Dairy,2,₹28.00,56.00,Cash
+29/08/2026,NA/01198,Milk 500ml,Dairy,1,₹28.00,Rs. 28,PhonePe
+2026-08-29,NA/01199,Tea Powder 250g,Beverages,1,140,₹140.00,upi
+29/08/2026,NA/01199,Jaggery 1kg,Groceries,1,70,₹70.00,upi
+29/08/2026,NA/01200,Banana Chips 200g,Snacks,1,60,₹60.00,Cash
+29/08/2026,NA/01201,Banana Chips 200g,Snacks,1,Rs. 60,Rs. 60,Cash
+29 Aug 2026,NA/01201,Milk 500ml,Dairy,1,₹28.00,₹28.00,Cash
+29/08/2026,NA/01202,Wheat Atta 5kg,Groceries,1,Rs. 260,₹260.00,upi
+29/08/2026,NA/01203,Toor Dal 1kg,Groceries,1,₹165.00,165.00,Card
+29/08/2026,NA/01203,Masala Peanuts 200g,Snacks,4,₹45.00,Rs. 180,Card
+29/08/2026,NA/01203,Detergent Powder 1kg,Household,1,₹110.00,₹110.00,Card
+29/08/2026,NA/01203,Curd 500g,Dairy,1,₹35.00,Rs. 35,Card
+29/08/2026,NA/01204,Idli Rava 1kg,Groceries,1,64,₹64.00,UPI
+2026-08-29,NA/01205,MILK 500ML,Dairy,4,₹28.00,₹112.00,upi
+29 Aug 2026,NA/01206,MILK 500ML,Dairy,1,28,₹28.00,GPay
+29/08/2026,NA/01207,Toor Dal 1kg,Groceries,2,165,330.00,GPay
+2026-08-29,NA/01207,Milk 500ml,Dairy,2,28,₹56.00,GPay
+29/08/2026,NA/01207,Butter 100g,Dairy,1,₹58.00,₹58.00,GPay
+29/08/2026,NA/01208,Sunflower Oil 1L,Groceries,1,Rs. 155,155.00,UPI
+2026-08-29,NA/01208,Milk 500ml,Dairy,2,₹28.00,₹56.00,UPI
+29/08/2026,NA/01209,Milk 500ml,Dairy,1,Rs. 28,Rs. 28,PhonePe
+29/08/2026,NA/01209,Agarbatti Pack,Household,4,35,140,PhonePe
+29 Aug 2026,NA/01210,Paneer 200g,Dairy,1,₹90.00,₹90.00,Cash
+29/08/2026,NA/01211,glucose biscuits 250g,Snacks,2,₹30.00,Rs. 60,cash
+29/08/2026,NA/01211,Sona Masoori Rice 5kg,Groceries,1,340,₹340.00,cash
+2026-08-29,NA/01212,Agarbatti Pack,Household,2,₹35.00,70.00,cash
+29/08/2026,NA/01212,Butter 100g,Dairy,1,₹58.00,58,cash
+30/08/2026,NA/01213,Milk 500 ml,Dairy,1,₹28.00,₹28.00,GPay
+2026-08-30,NA/01214,Sunflower Oil 1L,Groceries,1,₹155.00,₹155.00,Cash
+30/08/2026,NA/01215,Curd 500g,Dairy,1,₹35.00,Rs. 35,PhonePe
+30/08/2026,NA/01216,Sona Masoori Rice 5kg,Groceries,1,₹340.00,340,cash
+2026-08-30,NA/01216,Milk 500ml,Dairy,1,28,28,cash
+30 Aug 2026,NA/01217,Milk 500ml,Dairy,1,Rs. 28,28,Cash
+30/08/2026,NA/01217,Dishwash Bar 3pc,Household,1,Rs. 45,₹45.00,Cash
+30 Aug 2026,NA/01218,Idli Rava 1kg,Groceries,1,₹64.00,₹64.00,upi
+30/08/2026,NA/01218,Masala Peanuts 200g,Snacks,2,45,₹90.00,upi
+30/08/2026,NA/01218,Paneer 200g,Dairy,2,90.00,180,upi
+30/08/2026,NA/01219,Toor Dal 1kg,Groceries,2,₹165.00,₹330.00,UPI
+30 Aug 2026,NA/01220,Sugar 1kg,Groceries,2,48,₹96.00,cash
+30/08/2026,NA/01220,Toor Dal 1kg,Groceries,2,₹165.00,330.00,cash
+30/08/2026,NA/01221,Glucose Biscuits 250g,Snacks,4,30.00,120,Card
+30 Aug 2026,NA/01221,Masala Peanuts 200g,Snacks,1,Rs. 45,₹45.00,Card
+30-08-26,NA/01221,Banana Chips 200g,Snacks,2,₹60.00,₹120.00,Card
+30/08/2026,NA/01222,Sugar 1kg,Groceries,1,₹48.00,₹48.00,cash
+30 Aug 2026,NA/01222,Milk 500ml,Dairy,1,28.00,28,cash
+30/08/2026,NA/01222,Paneer 200g,Dairy,2,Rs. 90,₹180.00,cash
+30 Aug 2026,NA/01222,Groundnut Oil 1L,Groceries,4,Rs. 210,840,cash
+30/08/2026,NA/01223,Tea Powder 250g,Beverages,1,140,₹140.00,Cash
+30 Aug 2026,NA/01223,Moong Dal 500g,Groceries,2,72,Rs. 144,Cash
+30/08/2026,NA/01223,Milk 500ml,Dairy,1,₹28.00,28,Cash
+30/08/2026,NA/01223,Filter Coffee Powder 500g,Beverages,3,260,₹780.00,Cash
+2026-08-30,NA/01224,Groundnut Oil 1L,Groceries,3,Rs. 210,Rs. 630,cash
+30/08/2026,NA/01224,Jaggery 1kg,Groceries,2,70,140,cash
+30/08/2026,NA/01225,Groundnut Oil 1L,Groceries,1,Rs. 210,210.00,GPay
+30/08/2026,NA/01225,Curd 500g,Dairy,1,Rs. 35,₹35.00,GPay
+30/08/2026,NA/01226,Glucose Biscuits 250g,Snacks,1,30,₹30.00,upi
+2026-08-30,NA/01226,Paneer 200g,Dairy,1,₹90.00,90,upi
+30/08/2026,NA/01227,toor dal 1 kg,Groceries,1,₹165.00,₹165.00,card
+30/08/2026,NA/01227,Filter Coffee Powder 500g,Beverages,1,₹260.00,Rs. 260,card
+30/08/2026,NA/01227,Sugar 1kg,Groceries,1,Rs. 48,Rs. 48,card
+30/08/2026,NA/01228,Milk 500ml,Dairy,1,Rs. 28,₹28.00,UPI
+30 Aug 2026,NA/01229,Masala Peanuts 200g,Snacks,1,₹45.00,45,upi
+2026-08-30,NA/01229,Groundnut Oil 1L,Groceries,1,Rs. 210,Rs. 210,upi
+30-08-26,NA/01230,Sunflower Oil 1L,Groceries,1,155.00,155.00,upi
+30/08/2026,NA/01230,Sugar 1kg,Groceries,1,48,48,upi
+30/08/2026,NA/01231,Sugar 1kg,Groceries,1,48.00,₹48.00,Credit
+30/08/2026,NA/01231,Masala Peanuts 200g,Snacks,2,₹45.00,Rs. 90,Credit
+30/08/2026,NA/01232,MILK 500ML,Dairy,2,₹28.00,Rs. 56,Cash
+30/08/2026,NA/01232,Curd 500g,Dairy,1,35.00,Rs. 35,Cash
+30 Aug 2026,NA/01233,Butter 100g,Dairy,2,Rs. 58,₹116.00,Cash
+2026-08-30,NA/01233,Rusk 300g,Snacks,2,₹50.00,100,Cash
+30/08/2026,NA/01233,Sona Masoori Rice 5kg,Groceries,1,Rs. 340,340,Cash
+30/08/2026,NA/01233,Moong Dal 500g,Groceries,1,₹72.00,72,Cash
+30/08/2026,NA/01234,Rusk 300g,Snacks,1,Rs. 50,Rs. 50,PhonePe
+30/08/2026,NA/01234,Groundnut Oil 1L,Groceries,2,Rs. 210,₹420.00,PhonePe
+30/08/2026,NA/01235,Sugar 1kg,Groceries,3,₹48.00,144,PhonePe
+30 Aug 2026,NA/01235,Milk 500ml,Dairy,2,₹28.00,₹56.00,PhonePe
+30 Aug 2026,NA/01236,Tea Powder 250g,Beverages,3,140.00,₹420.00,GPay
+30/08/2026,NA/01236,Sona Masoori Rice 5kg,Groceries,3,Rs. 340,"₹1,020.00",GPay
+31/08/2026,NA/01237,Curd 500g,Dairy,2,35.00,Rs. 70,Cash
+31/08/2026,NA/01238,Dishwash Bar 3pc,Household,1,Rs. 45,45.00,GPay
+31 Aug 2026,NA/01239,Rusk 300g,Snacks,1,₹50.00,₹50.00,UPI
+2026-08-31,NA/01239,Wheat Atta 5kg,Groceries,1,260,260,UPI
+31/08/2026,NA/01239,Detergent Powder 1kg,Household,1,110,₹110.00,UPI
+31/08/2026,NA/01239,Paneer 200g,Dairy,1,90,90.00,UPI
+31 Aug 2026,NA/01240,Wheat Atta 5kg,Groceries,1,₹260.00,₹260.00,PhonePe
+31/08/2026,NA/01240,Milk 500ml,Dairy,1,₹28.00,₹28.00,PhonePe
+31/08/2026,NA/01240,Panner 200g,Dairy,1,90,90,PhonePe
+2026-08-31,NA/01240,Idli Rava 1kg,Groceries,1,₹64.00,Rs. 64,PhonePe
+31/08/2026,NA/01241,Sona Masoori Rice 5kg,Groceries,2,Rs. 340,Rs. 680,upi
+2026-08-31,NA/01241,Milk 500ml,Dairy,1,28,₹28.00,upi
+2026-08-31,NA/01242,Rusk 300g,Snacks,3,50.00,150,PhonePe
+31/08/2026,NA/01243,Badam Drink Mix 200g,Beverages,1,₹120.00,₹120.00,upi
+31/08/2026,NA/01243,Milk 500ml,Dairy,1,28,Rs. 28,upi
+2026-08-31,NA/01244,Sunflower Oil 1L,Groceries,2,155.00,₹310.00,Cash
+2026-08-31,NA/01245,Badam Drink Mix 200g,Beverages,1,₹120.00,₹120.00,cash
+31/08/2026,NA/01245,Curd 500g,Dairy,1,Rs. 35,35,cash
+31/08/2026,NA/01246,Dishwash Bar 3pc,Household,2,₹45.00,Rs. 90,cash
+31/08/2026,NA/01246,Tea Powder 250g,Beverages,2,₹140.00,280,cash
+31/08/2026,NA/01246,Masala Peanuts 200g,Snacks,1,Rs. 45,₹45.00,cash
+31/08/2026,NA/01247,Curd 500g,Dairy,1,35,Rs. 35,cash
+31/08/2026,NA/01247,Agarbatti Pack,Household,1,35.00,₹35.00,cash
+31/08/2026,NA/01248,Sona Masoori Rice 5kg,Groceries,1,340,Rs. 340,cash
+31/08/2026,NA/01249,Groundnut Oil 1L,Groceries,3,210,₹630.00,Cash
+2026-08-31,NA/01249,Milk 500ml,Dairy,2,₹28.00,56,Cash
+31/08/2026,NA/01250,Detergent Powder 1kg,Household,1,₹110.00,110.00,upi
+31/08/2026,NA/01250,Sugar 1kg,Groceries,2,48.00,₹96.00,upi
+31-08-26,NA/01251,Curd 500g,Dairy,3,₹35.00,₹105.00,Cash
+31-08-26,NA/01252,Toor Dal 1kg,Groceries,1,165.00,165,Cash
+31/08/2026,NA/01253,Idli Rava 1kg,Groceries,2,₹64.00,128,Cash
+31/08/2026,NA/01253,Curd 500g,Dairy,2,₹35.00,₹70.00,Cash

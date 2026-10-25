@@ -1,0 +1,25 @@
+# Settings for the demo store. Copy this file for each new client and
+# change only what differs. Everything here is optional.
+
+business_name: "Namma Angadi Provisions (demo)"
+currency_symbol: "₹"
+
+# Extra column names this client's exports use. These are ADDED to the
+# built-in list (Date, Bill Date, Inv Date, Product, Item Name, Particulars,
+# Qty, Nos, Rate, MRP, Amount, Net Amount, Payment Mode, ...).
+column_aliases:
+  product: ["item name"]
+
+# Official product name -> spellings that should be merged into it.
+# Case, spaces and brackets are already ignored automatically
+# ("toor dal 1 KG" = "Toor Dal (1kg)"), so list only real typos here.
+product_aliases:
+  "Paneer 200g": ["Panner 200g"]
+
+# Remove exact repeats of the same invoice line (needs an invoice number column).
+drop_duplicates: true
+
+# Flag lines where amount differs from qty x rate by more than this.
+amount_tolerance: 1.0
+
+top_n_products: 10

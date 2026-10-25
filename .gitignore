@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Generated reports (regenerate with the command line or web page)
+output/
+
+# Never commit secrets or real client data
+.env
+.streamlit/secrets.toml
+client_data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
